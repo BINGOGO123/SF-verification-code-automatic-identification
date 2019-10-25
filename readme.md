@@ -5,11 +5,11 @@
 
 ![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/vcodes/4px5a.png)
 
-# 解决思路
+## 解决思路
 
 通过PIL库进行处理，将图片后面的黑色部分抹掉，然后直接用tesserocr进行识别
 
-# 实际效果
+## 实际效果
 
 这里尝试了多种方式进行预处理，但是都没有达到很好的效果，最高的识别率也只有64%多一点
 
@@ -20,15 +20,15 @@
 经过不停的参数调整后该方式处理后的图片如下：
 > 所有预处理结果图片都在 /tem 目录下
 
-![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/1-10-8/4px5a.png)
+![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/1_10_8/4px5a.png)
 
-![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/1-30-9/4px5a.png)
+![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/1_30_9/4px5a.png)
 
-![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/2-10-19/4px5a.png)
+![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/2_10_19/4px5a.png)
 
-![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/2-70-19/4px5a.png)
+![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/2_70_19/4px5a.png)
 
-# 文件说明
+## 文件说明
 ```
 home
 │   readme.md
