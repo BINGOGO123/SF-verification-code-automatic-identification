@@ -3,7 +3,7 @@
 
 这里主要解决的是验证码后面有一团黑色像素环绕的问题，如下图：
 
-![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/vcodes/4px5a.png)
+![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/vcodes/4px5a.png)
 
 # 解决思路
 
@@ -20,13 +20,13 @@
 经过不停的参数调整后该方式处理后的图片如下：
 > 所有预处理结果图片都在 /tem 目录下
 
-![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/tem/1-10-8/4px5a.png)
+![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/1-10-8/4px5a.png)
 
-![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/tem/1-30-8/4px5a.png)
+![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/1-30-9/4px5a.png)
 
-![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/tem/2-10-19/4px5a.png)
+![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/2-10-19/4px5a.png)
 
-![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/tem/1-70-19/4px5a.png)
+![image](https://github.com/BINGOGO123/SF-verification-code-automatic-identification/blob/master/tem/2-70-19/4px5a.png)
 
 # 文件说明
 ```
