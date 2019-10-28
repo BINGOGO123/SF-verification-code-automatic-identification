@@ -1,0 +1,396 @@
+2019-10-27 15:35:12 [INFO] [69] >> ----顺丰快递验证码识别程序启动----
+2019-10-27 15:35:13 [INFO] [57] >> 28g7p.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:13 [INFO] [65] >> 28g7p.png 预处理完成，处理结果保存在 tem/2_70_19/28g7p.png
+2019-10-27 15:35:22 [INFO] [69] >> ----顺丰快递验证码识别程序启动----
+2019-10-27 15:35:22 [INFO] [57] >> 28g7p.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:22 [INFO] [65] >> 28g7p.png 预处理完成，处理结果保存在 tem/2_70_19/28g7p.png
+2019-10-27 15:35:41 [INFO] [69] >> ----顺丰快递验证码识别程序启动----
+2019-10-27 15:35:41 [INFO] [57] >> 28g7p.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:41 [INFO] [65] >> 28g7p.png 预处理完成，处理结果保存在 tem/2_70_19/28g7p.png
+2019-10-27 15:35:43 [ERROR] [98] >> 28g7p.png 识别结果：2897p  |错误
+2019-10-27 15:35:43 [INFO] [57] >> 4px5a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:43 [INFO] [65] >> 4px5a.png 预处理完成，处理结果保存在 tem/2_70_19/4px5a.png
+2019-10-27 15:35:44 [INFO] [95] >> 4px5a.png 识别结果：4px5a  |正确
+2019-10-27 15:35:44 [INFO] [57] >> 4wc5a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:44 [INFO] [65] >> 4wc5a.png 预处理完成，处理结果保存在 tem/2_70_19/4wc5a.png
+2019-10-27 15:35:44 [ERROR] [98] >> 4wc5a.png 识别结果：4we5a  |错误
+2019-10-27 15:35:44 [INFO] [57] >> 6rdb3.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:44 [INFO] [65] >> 6rdb3.png 预处理完成，处理结果保存在 tem/2_70_19/6rdb3.png
+2019-10-27 15:35:45 [INFO] [95] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-27 15:35:45 [INFO] [57] >> 6wkrk.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:45 [INFO] [65] >> 6wkrk.png 预处理完成，处理结果保存在 tem/2_70_19/6wkrk.png
+2019-10-27 15:35:45 [INFO] [95] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-27 15:35:45 [INFO] [57] >> 6xea7.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:45 [INFO] [65] >> 6xea7.png 预处理完成，处理结果保存在 tem/2_70_19/6xea7.png
+2019-10-27 15:35:45 [ERROR] [98] >> 6xea7.png 识别结果：6xea/  |错误
+2019-10-27 15:35:45 [INFO] [57] >> 7aedx.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:45 [INFO] [65] >> 7aedx.png 预处理完成，处理结果保存在 tem/2_70_19/7aedx.png
+2019-10-27 15:35:46 [ERROR] [98] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-27 15:35:46 [INFO] [57] >> 84m33.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:46 [INFO] [65] >> 84m33.png 预处理完成，处理结果保存在 tem/2_70_19/84m33.png
+2019-10-27 15:35:46 [INFO] [95] >> 84m33.png 识别结果：84m33  |正确
+2019-10-27 15:35:46 [INFO] [57] >> 866wb.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:46 [INFO] [65] >> 866wb.png 预处理完成，处理结果保存在 tem/2_70_19/866wb.png
+2019-10-27 15:35:47 [ERROR] [98] >> 866wb.png 识别结果：S66wh  |错误
+2019-10-27 15:35:47 [INFO] [57] >> 8w5c5.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:47 [INFO] [65] >> 8w5c5.png 预处理完成，处理结果保存在 tem/2_70_19/8w5c5.png
+2019-10-27 15:35:47 [ERROR] [98] >> 8w5c5.png 识别结果：Sw5c5  |错误
+2019-10-27 15:35:47 [INFO] [57] >> a5gk3.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:47 [INFO] [65] >> a5gk3.png 预处理完成，处理结果保存在 tem/2_70_19/a5gk3.png
+2019-10-27 15:35:48 [INFO] [95] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-27 15:35:48 [INFO] [57] >> an7ga.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:48 [INFO] [65] >> an7ga.png 预处理完成，处理结果保存在 tem/2_70_19/an7ga.png
+2019-10-27 15:35:48 [ERROR] [98] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-27 15:35:48 [INFO] [57] >> awbwk.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:48 [INFO] [65] >> awbwk.png 预处理完成，处理结果保存在 tem/2_70_19/awbwk.png
+2019-10-27 15:35:49 [INFO] [95] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-27 15:35:49 [INFO] [57] >> bg8rp.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:49 [INFO] [65] >> bg8rp.png 预处理完成，处理结果保存在 tem/2_70_19/bg8rp.png
+2019-10-27 15:35:49 [ERROR] [98] >> bg8rp.png 识别结果：b8grp  |错误
+2019-10-27 15:35:49 [INFO] [57] >> bhb5m.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:49 [INFO] [65] >> bhb5m.png 预处理完成，处理结果保存在 tem/2_70_19/bhb5m.png
+2019-10-27 15:35:49 [INFO] [95] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-27 15:35:49 [INFO] [57] >> cnb5k.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:49 [INFO] [65] >> cnb5k.png 预处理完成，处理结果保存在 tem/2_70_19/cnb5k.png
+2019-10-27 15:35:50 [INFO] [95] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-27 15:35:50 [INFO] [57] >> e3gck.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:50 [INFO] [65] >> e3gck.png 预处理完成，处理结果保存在 tem/2_70_19/e3gck.png
+2019-10-27 15:35:50 [INFO] [95] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-27 15:35:50 [INFO] [57] >> e5nx5.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:50 [INFO] [65] >> e5nx5.png 预处理完成，处理结果保存在 tem/2_70_19/e5nx5.png
+2019-10-27 15:35:51 [ERROR] [98] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-27 15:35:51 [INFO] [57] >> edwwy.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:51 [INFO] [65] >> edwwy.png 预处理完成，处理结果保存在 tem/2_70_19/edwwy.png
+2019-10-27 15:35:51 [INFO] [95] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-27 15:35:51 [INFO] [57] >> exwkb.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:51 [INFO] [65] >> exwkb.png 预处理完成，处理结果保存在 tem/2_70_19/exwkb.png
+2019-10-27 15:35:52 [INFO] [95] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-27 15:35:52 [INFO] [57] >> f873a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:52 [INFO] [65] >> f873a.png 预处理完成，处理结果保存在 tem/2_70_19/f873a.png
+2019-10-27 15:35:52 [ERROR] [98] >> f873a.png 识别结果：§873a  |错误
+2019-10-27 15:35:52 [INFO] [57] >> frbnr.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:52 [INFO] [65] >> frbnr.png 预处理完成，处理结果保存在 tem/2_70_19/frbnr.png
+2019-10-27 15:35:53 [ERROR] [98] >> frbnr.png 识别结果：frbar  |错误
+2019-10-27 15:35:53 [INFO] [57] >> gdenf.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:53 [INFO] [65] >> gdenf.png 预处理完成，处理结果保存在 tem/2_70_19/gdenf.png
+2019-10-27 15:35:53 [INFO] [95] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-27 15:35:53 [INFO] [57] >> ge554.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:53 [INFO] [65] >> ge554.png 预处理完成，处理结果保存在 tem/2_70_19/ge554.png
+2019-10-27 15:35:53 [INFO] [95] >> ge554.png 识别结果：ge554  |正确
+2019-10-27 15:35:53 [INFO] [57] >> gg7hn.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:53 [INFO] [65] >> gg7hn.png 预处理完成，处理结果保存在 tem/2_70_19/gg7hn.png
+2019-10-27 15:35:54 [ERROR] [98] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-27 15:35:54 [INFO] [57] >> kxrha.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:54 [INFO] [65] >> kxrha.png 预处理完成，处理结果保存在 tem/2_70_19/kxrha.png
+2019-10-27 15:35:54 [INFO] [95] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-27 15:35:54 [INFO] [57] >> mgy56.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:54 [INFO] [65] >> mgy56.png 预处理完成，处理结果保存在 tem/2_70_19/mgy56.png
+2019-10-27 15:35:55 [INFO] [95] >> mgy56.png 识别结果：mgy56  |正确
+2019-10-27 15:35:55 [INFO] [57] >> wpe28.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:55 [INFO] [65] >> wpe28.png 预处理完成，处理结果保存在 tem/2_70_19/wpe28.png
+2019-10-27 15:35:55 [INFO] [95] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-27 15:35:55 [INFO] [57] >> wwrhd.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:56 [INFO] [65] >> wwrhd.png 预处理完成，处理结果保存在 tem/2_70_19/wwrhd.png
+2019-10-27 15:35:56 [INFO] [95] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-27 15:35:56 [INFO] [57] >> x3w73.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:56 [INFO] [65] >> x3w73.png 预处理完成，处理结果保存在 tem/2_70_19/x3w73.png
+2019-10-27 15:35:56 [ERROR] [98] >> x3w73.png 识别结果：x3w7/3  |错误
+2019-10-27 15:35:56 [INFO] [57] >> xfbwg.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:35:56 [INFO] [65] >> xfbwg.png 预处理完成，处理结果保存在 tem/2_70_19/xfbwg.png
+2019-10-27 15:35:57 [INFO] [95] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-27 15:35:57 [INFO] [99] >> length = 2 min_gray_value = 70 min_total = 19 总数：31 正确数：18 正确率：0.5806451612903226
+2019-10-27 15:35:57 [INFO] [100] >> ----顺丰快递验证码识别程序结束----
+2019-10-27 15:38:47 [INFO] [69] >> ----顺丰快递验证码识别程序启动----
+2019-10-27 15:38:47 [INFO] [57] >> 28g7p.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:47 [INFO] [65] >> 28g7p.png 预处理完成，处理结果保存在 tem/2_70_19/28g7p.png
+2019-10-27 15:38:48 [ERROR] [98] >> 28g7p.png 识别结果：2897p  |错误
+2019-10-27 15:38:48 [INFO] [57] >> 4px5a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:48 [INFO] [65] >> 4px5a.png 预处理完成，处理结果保存在 tem/2_70_19/4px5a.png
+2019-10-27 15:38:48 [ERROR] [98] >> 4px5a.png 识别结果：4px 5a  |错误
+2019-10-27 15:38:48 [INFO] [57] >> 4wc5a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:48 [INFO] [65] >> 4wc5a.png 预处理完成，处理结果保存在 tem/2_70_19/4wc5a.png
+2019-10-27 15:38:48 [ERROR] [98] >> 4wc5a.png 识别结果：4we5a  |错误
+2019-10-27 15:38:48 [INFO] [57] >> 6rdb3.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:48 [INFO] [65] >> 6rdb3.png 预处理完成，处理结果保存在 tem/2_70_19/6rdb3.png
+2019-10-27 15:38:49 [INFO] [95] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-27 15:38:49 [INFO] [57] >> 6wkrk.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:49 [INFO] [65] >> 6wkrk.png 预处理完成，处理结果保存在 tem/2_70_19/6wkrk.png
+2019-10-27 15:38:49 [INFO] [95] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-27 15:38:49 [INFO] [57] >> 6xea7.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:49 [INFO] [65] >> 6xea7.png 预处理完成，处理结果保存在 tem/2_70_19/6xea7.png
+2019-10-27 15:38:49 [ERROR] [98] >> 6xea7.png 识别结果：6xea/  |错误
+2019-10-27 15:38:49 [INFO] [57] >> 7aedx.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:49 [INFO] [65] >> 7aedx.png 预处理完成，处理结果保存在 tem/2_70_19/7aedx.png
+2019-10-27 15:38:49 [ERROR] [98] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-27 15:38:49 [INFO] [57] >> 84m33.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:49 [INFO] [65] >> 84m33.png 预处理完成，处理结果保存在 tem/2_70_19/84m33.png
+2019-10-27 15:38:50 [INFO] [95] >> 84m33.png 识别结果：84m33  |正确
+2019-10-27 15:38:50 [INFO] [57] >> 866wb.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:50 [INFO] [65] >> 866wb.png 预处理完成，处理结果保存在 tem/2_70_19/866wb.png
+2019-10-27 15:38:50 [ERROR] [98] >> 866wb.png 识别结果：S66wh  |错误
+2019-10-27 15:38:50 [INFO] [57] >> 8w5c5.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:50 [INFO] [65] >> 8w5c5.png 预处理完成，处理结果保存在 tem/2_70_19/8w5c5.png
+2019-10-27 15:38:50 [ERROR] [98] >> 8w5c5.png 识别结果：Sw5c5  |错误
+2019-10-27 15:38:50 [INFO] [57] >> a5gk3.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:50 [INFO] [65] >> a5gk3.png 预处理完成，处理结果保存在 tem/2_70_19/a5gk3.png
+2019-10-27 15:38:51 [INFO] [95] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-27 15:38:51 [INFO] [57] >> an7ga.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:51 [INFO] [65] >> an7ga.png 预处理完成，处理结果保存在 tem/2_70_19/an7ga.png
+2019-10-27 15:38:51 [ERROR] [98] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-27 15:38:51 [INFO] [57] >> awbwk.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:51 [INFO] [65] >> awbwk.png 预处理完成，处理结果保存在 tem/2_70_19/awbwk.png
+2019-10-27 15:38:51 [INFO] [95] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-27 15:38:51 [INFO] [57] >> bg8rp.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:51 [INFO] [65] >> bg8rp.png 预处理完成，处理结果保存在 tem/2_70_19/bg8rp.png
+2019-10-27 15:38:51 [ERROR] [98] >> bg8rp.png 识别结果：b8grp  |错误
+2019-10-27 15:38:51 [INFO] [57] >> bhb5m.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:51 [INFO] [65] >> bhb5m.png 预处理完成，处理结果保存在 tem/2_70_19/bhb5m.png
+2019-10-27 15:38:52 [INFO] [95] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-27 15:38:52 [INFO] [57] >> cnb5k.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:52 [INFO] [65] >> cnb5k.png 预处理完成，处理结果保存在 tem/2_70_19/cnb5k.png
+2019-10-27 15:38:52 [INFO] [95] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-27 15:38:52 [INFO] [57] >> e3gck.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:52 [INFO] [65] >> e3gck.png 预处理完成，处理结果保存在 tem/2_70_19/e3gck.png
+2019-10-27 15:38:52 [INFO] [95] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-27 15:38:52 [INFO] [57] >> e5nx5.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:52 [INFO] [65] >> e5nx5.png 预处理完成，处理结果保存在 tem/2_70_19/e5nx5.png
+2019-10-27 15:38:53 [ERROR] [98] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-27 15:38:53 [INFO] [57] >> edwwy.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:53 [INFO] [65] >> edwwy.png 预处理完成，处理结果保存在 tem/2_70_19/edwwy.png
+2019-10-27 15:38:53 [INFO] [95] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-27 15:38:53 [INFO] [57] >> exwkb.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:53 [INFO] [65] >> exwkb.png 预处理完成，处理结果保存在 tem/2_70_19/exwkb.png
+2019-10-27 15:38:53 [INFO] [95] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-27 15:38:53 [INFO] [57] >> f873a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:53 [INFO] [65] >> f873a.png 预处理完成，处理结果保存在 tem/2_70_19/f873a.png
+2019-10-27 15:38:53 [ERROR] [98] >> f873a.png 识别结果：§873a  |错误
+2019-10-27 15:38:53 [INFO] [57] >> frbnr.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:53 [INFO] [65] >> frbnr.png 预处理完成，处理结果保存在 tem/2_70_19/frbnr.png
+2019-10-27 15:38:54 [ERROR] [98] >> frbnr.png 识别结果：frbar  |错误
+2019-10-27 15:38:54 [INFO] [57] >> gdenf.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:54 [INFO] [65] >> gdenf.png 预处理完成，处理结果保存在 tem/2_70_19/gdenf.png
+2019-10-27 15:38:54 [INFO] [95] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-27 15:38:54 [INFO] [57] >> ge554.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:54 [INFO] [65] >> ge554.png 预处理完成，处理结果保存在 tem/2_70_19/ge554.png
+2019-10-27 15:38:54 [INFO] [95] >> ge554.png 识别结果：ge554  |正确
+2019-10-27 15:38:54 [INFO] [57] >> gg7hn.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:54 [INFO] [65] >> gg7hn.png 预处理完成，处理结果保存在 tem/2_70_19/gg7hn.png
+2019-10-27 15:38:55 [ERROR] [98] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-27 15:38:55 [INFO] [57] >> kxrha.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:55 [INFO] [65] >> kxrha.png 预处理完成，处理结果保存在 tem/2_70_19/kxrha.png
+2019-10-27 15:38:55 [INFO] [95] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-27 15:38:55 [INFO] [57] >> mgy56.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:55 [INFO] [65] >> mgy56.png 预处理完成，处理结果保存在 tem/2_70_19/mgy56.png
+2019-10-27 15:38:55 [ERROR] [98] >> mgy56.png 识别结果：mgy 56  |错误
+2019-10-27 15:38:55 [INFO] [57] >> wpe28.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:55 [INFO] [65] >> wpe28.png 预处理完成，处理结果保存在 tem/2_70_19/wpe28.png
+2019-10-27 15:38:55 [INFO] [95] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-27 15:38:55 [INFO] [57] >> wwrhd.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:55 [INFO] [65] >> wwrhd.png 预处理完成，处理结果保存在 tem/2_70_19/wwrhd.png
+2019-10-27 15:38:56 [INFO] [95] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-27 15:38:56 [INFO] [57] >> x3w73.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:56 [INFO] [65] >> x3w73.png 预处理完成，处理结果保存在 tem/2_70_19/x3w73.png
+2019-10-27 15:38:56 [ERROR] [98] >> x3w73.png 识别结果：x3w 7/3  |错误
+2019-10-27 15:38:56 [INFO] [57] >> xfbwg.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:38:56 [INFO] [65] >> xfbwg.png 预处理完成，处理结果保存在 tem/2_70_19/xfbwg.png
+2019-10-27 15:38:56 [INFO] [95] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-27 15:38:56 [INFO] [99] >> length = 2 min_gray_value = 70 min_total = 19 总数：31 正确数：16 正确率：0.5161290322580645
+2019-10-27 15:38:56 [INFO] [100] >> ----顺丰快递验证码识别程序结束----
+2019-10-27 15:39:19 [INFO] [69] >> ----顺丰快递验证码识别程序启动----
+2019-10-27 15:39:19 [INFO] [57] >> 28g7p.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:39:19 [INFO] [65] >> 28g7p.png 预处理完成，处理结果保存在 tem/2_70_19/28g7p.png
+2019-10-27 15:47:30 [INFO] [69] >> ----顺丰快递验证码识别程序启动----
+2019-10-27 15:47:30 [INFO] [57] >> 28g7p.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:30 [INFO] [65] >> 28g7p.png 预处理完成，处理结果保存在 tem/2_70_19/28g7p.png
+2019-10-27 15:47:55 [INFO] [69] >> ----顺丰快递验证码识别程序启动----
+2019-10-27 15:47:55 [INFO] [57] >> 28g7p.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:56 [INFO] [65] >> 28g7p.png 预处理完成，处理结果保存在 tem/2_70_19/28g7p.png
+2019-10-27 15:47:56 [ERROR] [98] >> 28g7p.png 识别结果：2897p  |错误
+2019-10-27 15:47:56 [INFO] [57] >> 4px5a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:56 [INFO] [65] >> 4px5a.png 预处理完成，处理结果保存在 tem/2_70_19/4px5a.png
+2019-10-27 15:47:56 [ERROR] [98] >> 4px5a.png 识别结果：4px 5a  |错误
+2019-10-27 15:47:56 [INFO] [57] >> 4wc5a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:56 [INFO] [65] >> 4wc5a.png 预处理完成，处理结果保存在 tem/2_70_19/4wc5a.png
+2019-10-27 15:47:57 [ERROR] [98] >> 4wc5a.png 识别结果：4we5a  |错误
+2019-10-27 15:47:57 [INFO] [57] >> 6rdb3.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:57 [INFO] [65] >> 6rdb3.png 预处理完成，处理结果保存在 tem/2_70_19/6rdb3.png
+2019-10-27 15:47:57 [INFO] [95] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-27 15:47:57 [INFO] [57] >> 6wkrk.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:57 [INFO] [65] >> 6wkrk.png 预处理完成，处理结果保存在 tem/2_70_19/6wkrk.png
+2019-10-27 15:47:57 [INFO] [95] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-27 15:47:57 [INFO] [57] >> 6xea7.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:57 [INFO] [65] >> 6xea7.png 预处理完成，处理结果保存在 tem/2_70_19/6xea7.png
+2019-10-27 15:47:57 [ERROR] [98] >> 6xea7.png 识别结果：6xea/  |错误
+2019-10-27 15:47:57 [INFO] [57] >> 7aedx.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:57 [INFO] [65] >> 7aedx.png 预处理完成，处理结果保存在 tem/2_70_19/7aedx.png
+2019-10-27 15:47:58 [ERROR] [98] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-27 15:47:58 [INFO] [57] >> 84m33.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:58 [INFO] [65] >> 84m33.png 预处理完成，处理结果保存在 tem/2_70_19/84m33.png
+2019-10-27 15:47:58 [INFO] [95] >> 84m33.png 识别结果：84m33  |正确
+2019-10-27 15:47:58 [INFO] [57] >> 866wb.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:58 [INFO] [65] >> 866wb.png 预处理完成，处理结果保存在 tem/2_70_19/866wb.png
+2019-10-27 15:47:58 [ERROR] [98] >> 866wb.png 识别结果：S66wh  |错误
+2019-10-27 15:47:58 [INFO] [57] >> 8w5c5.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:58 [INFO] [65] >> 8w5c5.png 预处理完成，处理结果保存在 tem/2_70_19/8w5c5.png
+2019-10-27 15:47:59 [ERROR] [98] >> 8w5c5.png 识别结果：Sw5c5  |错误
+2019-10-27 15:47:59 [INFO] [57] >> a5gk3.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:59 [INFO] [65] >> a5gk3.png 预处理完成，处理结果保存在 tem/2_70_19/a5gk3.png
+2019-10-27 15:47:59 [INFO] [95] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-27 15:47:59 [INFO] [57] >> an7ga.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:59 [INFO] [65] >> an7ga.png 预处理完成，处理结果保存在 tem/2_70_19/an7ga.png
+2019-10-27 15:47:59 [ERROR] [98] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-27 15:47:59 [INFO] [57] >> awbwk.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:59 [INFO] [65] >> awbwk.png 预处理完成，处理结果保存在 tem/2_70_19/awbwk.png
+2019-10-27 15:47:59 [INFO] [95] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-27 15:47:59 [INFO] [57] >> bg8rp.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:47:59 [INFO] [65] >> bg8rp.png 预处理完成，处理结果保存在 tem/2_70_19/bg8rp.png
+2019-10-27 15:48:00 [ERROR] [98] >> bg8rp.png 识别结果：b8grp  |错误
+2019-10-27 15:48:00 [INFO] [57] >> bhb5m.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:00 [INFO] [65] >> bhb5m.png 预处理完成，处理结果保存在 tem/2_70_19/bhb5m.png
+2019-10-27 15:48:00 [INFO] [95] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-27 15:48:00 [INFO] [57] >> cnb5k.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:00 [INFO] [65] >> cnb5k.png 预处理完成，处理结果保存在 tem/2_70_19/cnb5k.png
+2019-10-27 15:48:00 [INFO] [95] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-27 15:48:00 [INFO] [57] >> e3gck.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:00 [INFO] [65] >> e3gck.png 预处理完成，处理结果保存在 tem/2_70_19/e3gck.png
+2019-10-27 15:48:00 [INFO] [95] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-27 15:48:00 [INFO] [57] >> e5nx5.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:00 [INFO] [65] >> e5nx5.png 预处理完成，处理结果保存在 tem/2_70_19/e5nx5.png
+2019-10-27 15:48:01 [ERROR] [98] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-27 15:48:01 [INFO] [57] >> edwwy.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:01 [INFO] [65] >> edwwy.png 预处理完成，处理结果保存在 tem/2_70_19/edwwy.png
+2019-10-27 15:48:01 [INFO] [95] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-27 15:48:01 [INFO] [57] >> exwkb.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:01 [INFO] [65] >> exwkb.png 预处理完成，处理结果保存在 tem/2_70_19/exwkb.png
+2019-10-27 15:48:01 [INFO] [95] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-27 15:48:01 [INFO] [57] >> f873a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:01 [INFO] [65] >> f873a.png 预处理完成，处理结果保存在 tem/2_70_19/f873a.png
+2019-10-27 15:48:02 [ERROR] [98] >> f873a.png 识别结果：§873a  |错误
+2019-10-27 15:48:02 [INFO] [57] >> frbnr.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:02 [INFO] [65] >> frbnr.png 预处理完成，处理结果保存在 tem/2_70_19/frbnr.png
+2019-10-27 15:48:02 [ERROR] [98] >> frbnr.png 识别结果：frbar  |错误
+2019-10-27 15:48:02 [INFO] [57] >> gdenf.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:02 [INFO] [65] >> gdenf.png 预处理完成，处理结果保存在 tem/2_70_19/gdenf.png
+2019-10-27 15:48:02 [INFO] [95] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-27 15:48:02 [INFO] [57] >> ge554.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:02 [INFO] [65] >> ge554.png 预处理完成，处理结果保存在 tem/2_70_19/ge554.png
+2019-10-27 15:48:02 [INFO] [95] >> ge554.png 识别结果：ge554  |正确
+2019-10-27 15:48:02 [INFO] [57] >> gg7hn.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:02 [INFO] [65] >> gg7hn.png 预处理完成，处理结果保存在 tem/2_70_19/gg7hn.png
+2019-10-27 15:48:03 [ERROR] [98] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-27 15:48:03 [INFO] [57] >> kxrha.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:03 [INFO] [65] >> kxrha.png 预处理完成，处理结果保存在 tem/2_70_19/kxrha.png
+2019-10-27 15:48:03 [INFO] [95] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-27 15:48:03 [INFO] [57] >> mgy56.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:03 [INFO] [65] >> mgy56.png 预处理完成，处理结果保存在 tem/2_70_19/mgy56.png
+2019-10-27 15:48:03 [ERROR] [98] >> mgy56.png 识别结果：mgy 56  |错误
+2019-10-27 15:48:03 [INFO] [57] >> wpe28.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:03 [INFO] [65] >> wpe28.png 预处理完成，处理结果保存在 tem/2_70_19/wpe28.png
+2019-10-27 15:48:04 [INFO] [95] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-27 15:48:04 [INFO] [57] >> wwrhd.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:04 [INFO] [65] >> wwrhd.png 预处理完成，处理结果保存在 tem/2_70_19/wwrhd.png
+2019-10-27 15:48:04 [INFO] [95] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-27 15:48:04 [INFO] [57] >> x3w73.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:04 [INFO] [65] >> x3w73.png 预处理完成，处理结果保存在 tem/2_70_19/x3w73.png
+2019-10-27 15:48:04 [ERROR] [98] >> x3w73.png 识别结果：x3w 7/3  |错误
+2019-10-27 15:48:04 [INFO] [57] >> xfbwg.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:04 [INFO] [65] >> xfbwg.png 预处理完成，处理结果保存在 tem/2_70_19/xfbwg.png
+2019-10-27 15:48:04 [INFO] [95] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-27 15:48:04 [INFO] [99] >> length = 2 min_gray_value = 70 min_total = 19 总数：31 正确数：16 正确率：0.5161290322580645
+2019-10-27 15:48:04 [INFO] [100] >> ----顺丰快递验证码识别程序结束----
+2019-10-27 15:48:14 [INFO] [69] >> ----顺丰快递验证码识别程序启动----
+2019-10-27 15:48:14 [INFO] [57] >> 28g7p.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:14 [INFO] [65] >> 28g7p.png 预处理完成，处理结果保存在 tem/2_70_19/28g7p.png
+2019-10-27 15:48:15 [ERROR] [98] >> 28g7p.png 识别结果：2897p  |错误
+2019-10-27 15:48:15 [INFO] [57] >> 4px5a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:15 [INFO] [65] >> 4px5a.png 预处理完成，处理结果保存在 tem/2_70_19/4px5a.png
+2019-10-27 15:48:15 [INFO] [95] >> 4px5a.png 识别结果：4px5a  |正确
+2019-10-27 15:48:15 [INFO] [57] >> 4wc5a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:15 [INFO] [65] >> 4wc5a.png 预处理完成，处理结果保存在 tem/2_70_19/4wc5a.png
+2019-10-27 15:48:15 [ERROR] [98] >> 4wc5a.png 识别结果：4we5a  |错误
+2019-10-27 15:48:15 [INFO] [57] >> 6rdb3.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:15 [INFO] [65] >> 6rdb3.png 预处理完成，处理结果保存在 tem/2_70_19/6rdb3.png
+2019-10-27 15:48:16 [INFO] [95] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-27 15:48:16 [INFO] [57] >> 6wkrk.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:16 [INFO] [65] >> 6wkrk.png 预处理完成，处理结果保存在 tem/2_70_19/6wkrk.png
+2019-10-27 15:48:16 [INFO] [95] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-27 15:48:16 [INFO] [57] >> 6xea7.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:16 [INFO] [65] >> 6xea7.png 预处理完成，处理结果保存在 tem/2_70_19/6xea7.png
+2019-10-27 15:48:16 [ERROR] [98] >> 6xea7.png 识别结果：6xea/  |错误
+2019-10-27 15:48:16 [INFO] [57] >> 7aedx.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:16 [INFO] [65] >> 7aedx.png 预处理完成，处理结果保存在 tem/2_70_19/7aedx.png
+2019-10-27 15:48:16 [ERROR] [98] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-27 15:48:16 [INFO] [57] >> 84m33.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:16 [INFO] [65] >> 84m33.png 预处理完成，处理结果保存在 tem/2_70_19/84m33.png
+2019-10-27 15:48:17 [INFO] [95] >> 84m33.png 识别结果：84m33  |正确
+2019-10-27 15:48:17 [INFO] [57] >> 866wb.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:17 [INFO] [65] >> 866wb.png 预处理完成，处理结果保存在 tem/2_70_19/866wb.png
+2019-10-27 15:48:17 [ERROR] [98] >> 866wb.png 识别结果：S66wh  |错误
+2019-10-27 15:48:17 [INFO] [57] >> 8w5c5.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:17 [INFO] [65] >> 8w5c5.png 预处理完成，处理结果保存在 tem/2_70_19/8w5c5.png
+2019-10-27 15:48:17 [ERROR] [98] >> 8w5c5.png 识别结果：Sw5c5  |错误
+2019-10-27 15:48:17 [INFO] [57] >> a5gk3.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:17 [INFO] [65] >> a5gk3.png 预处理完成，处理结果保存在 tem/2_70_19/a5gk3.png
+2019-10-27 15:48:18 [INFO] [95] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-27 15:48:18 [INFO] [57] >> an7ga.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:18 [INFO] [65] >> an7ga.png 预处理完成，处理结果保存在 tem/2_70_19/an7ga.png
+2019-10-27 15:48:18 [ERROR] [98] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-27 15:48:18 [INFO] [57] >> awbwk.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:18 [INFO] [65] >> awbwk.png 预处理完成，处理结果保存在 tem/2_70_19/awbwk.png
+2019-10-27 15:48:18 [INFO] [95] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-27 15:48:18 [INFO] [57] >> bg8rp.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:18 [INFO] [65] >> bg8rp.png 预处理完成，处理结果保存在 tem/2_70_19/bg8rp.png
+2019-10-27 15:48:19 [ERROR] [98] >> bg8rp.png 识别结果：b8grp  |错误
+2019-10-27 15:48:19 [INFO] [57] >> bhb5m.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:19 [INFO] [65] >> bhb5m.png 预处理完成，处理结果保存在 tem/2_70_19/bhb5m.png
+2019-10-27 15:48:19 [INFO] [95] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-27 15:48:19 [INFO] [57] >> cnb5k.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:19 [INFO] [65] >> cnb5k.png 预处理完成，处理结果保存在 tem/2_70_19/cnb5k.png
+2019-10-27 15:48:19 [INFO] [95] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-27 15:48:19 [INFO] [57] >> e3gck.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:19 [INFO] [65] >> e3gck.png 预处理完成，处理结果保存在 tem/2_70_19/e3gck.png
+2019-10-27 15:48:19 [INFO] [95] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-27 15:48:19 [INFO] [57] >> e5nx5.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:19 [INFO] [65] >> e5nx5.png 预处理完成，处理结果保存在 tem/2_70_19/e5nx5.png
+2019-10-27 15:48:20 [ERROR] [98] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-27 15:48:20 [INFO] [57] >> edwwy.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:20 [INFO] [65] >> edwwy.png 预处理完成，处理结果保存在 tem/2_70_19/edwwy.png
+2019-10-27 15:48:20 [INFO] [95] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-27 15:48:20 [INFO] [57] >> exwkb.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:20 [INFO] [65] >> exwkb.png 预处理完成，处理结果保存在 tem/2_70_19/exwkb.png
+2019-10-27 15:48:20 [INFO] [95] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-27 15:48:20 [INFO] [57] >> f873a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:20 [INFO] [65] >> f873a.png 预处理完成，处理结果保存在 tem/2_70_19/f873a.png
+2019-10-27 15:48:21 [ERROR] [98] >> f873a.png 识别结果：§873a  |错误
+2019-10-27 15:48:21 [INFO] [57] >> frbnr.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:21 [INFO] [65] >> frbnr.png 预处理完成，处理结果保存在 tem/2_70_19/frbnr.png
+2019-10-27 15:48:21 [ERROR] [98] >> frbnr.png 识别结果：frbar  |错误
+2019-10-27 15:48:21 [INFO] [57] >> gdenf.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:21 [INFO] [65] >> gdenf.png 预处理完成，处理结果保存在 tem/2_70_19/gdenf.png
+2019-10-27 15:48:21 [INFO] [95] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-27 15:48:21 [INFO] [57] >> ge554.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:21 [INFO] [65] >> ge554.png 预处理完成，处理结果保存在 tem/2_70_19/ge554.png
+2019-10-27 15:48:21 [INFO] [95] >> ge554.png 识别结果：ge554  |正确
+2019-10-27 15:48:21 [INFO] [57] >> gg7hn.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:21 [INFO] [65] >> gg7hn.png 预处理完成，处理结果保存在 tem/2_70_19/gg7hn.png
+2019-10-27 15:48:22 [ERROR] [98] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-27 15:48:22 [INFO] [57] >> kxrha.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:22 [INFO] [65] >> kxrha.png 预处理完成，处理结果保存在 tem/2_70_19/kxrha.png
+2019-10-27 15:48:22 [INFO] [95] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-27 15:48:22 [INFO] [57] >> mgy56.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:22 [INFO] [65] >> mgy56.png 预处理完成，处理结果保存在 tem/2_70_19/mgy56.png
+2019-10-27 15:48:22 [INFO] [95] >> mgy56.png 识别结果：mgy56  |正确
+2019-10-27 15:48:22 [INFO] [57] >> wpe28.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:22 [INFO] [65] >> wpe28.png 预处理完成，处理结果保存在 tem/2_70_19/wpe28.png
+2019-10-27 15:48:22 [INFO] [95] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-27 15:48:22 [INFO] [57] >> wwrhd.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:23 [INFO] [65] >> wwrhd.png 预处理完成，处理结果保存在 tem/2_70_19/wwrhd.png
+2019-10-27 15:48:23 [INFO] [95] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-27 15:48:23 [INFO] [57] >> x3w73.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:23 [INFO] [65] >> x3w73.png 预处理完成，处理结果保存在 tem/2_70_19/x3w73.png
+2019-10-27 15:48:23 [ERROR] [98] >> x3w73.png 识别结果：x3w7/3  |错误
+2019-10-27 15:48:23 [INFO] [57] >> xfbwg.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-27 15:48:23 [INFO] [65] >> xfbwg.png 预处理完成，处理结果保存在 tem/2_70_19/xfbwg.png
+2019-10-27 15:48:23 [INFO] [95] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-27 15:48:23 [INFO] [99] >> length = 2 min_gray_value = 70 min_total = 19 总数：31 正确数：18 正确率：0.5806451612903226
+2019-10-27 15:48:23 [INFO] [100] >> ----顺丰快递验证码识别程序结束----

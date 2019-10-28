@@ -32,28 +32,51 @@
 ```
 home
 │   readme.md
-│   main.py -- 主函数   
+│   main.py -- 验证码识别主函数   
+│   download.py -- 验证码下载主函数   
 │
 └───config
 │   │   config.py -- 存放各项参数
 |   |   logger.py -- 公共日志类
-│   │
-│   └───logs
-│       │   2019-10-25.log -- 日志文件，命名方式为：日期.log
-│   
+|
+└───downloader
+|   |   downloader.py -- 爬虫下载验证码类
+|
+└───modules
+|   |   tools.py -- 一些工具函数
+|
+└───logs
+|   │   main.2019-10-25.log -- main日志文件，命名方式为：main.日期.log
+|   │   download.2019-10-25.log -- download日志文件，命名方式为：download.日期.log
+|
 └───vcodes
 |   │   4px5a.png -- 验证码图片，名称为其正确内容
 |   |   ...
 |
-└───tem
-    └───1-10-6 -- 数字代表了处理方式，命名方式为：半径-最小像素值-最小黑色块数
-    |   |   4px5a.png -- 处理后的验证码图片
-    |   |   ...
-    |
+└───pre_deal
+|   └───imagePreDeal(2, 70, 19) -- 预处理函数，内存有通过该处理方式处理过的验证码图片
+|   |   |   result.txt -- 该方式下各个验证码识别结果
+|   |   |   4px5a.png
+|   |   |   ...
+|   |   └───imagePreDeal(1, 10, 4) -- 预处理函数，按照此格式递归下去
+|   |   |   |   ...
+|   |   |
+|   |   └───...
+|   |
+|   └───...
+|
+└───unmarked
+    |   2019-10-28_1.png -- 未标记的验证码，命名方式：date_num.log
     |   ...
 ```
 
 ## 代码执行
+执行验证码自动识别
 ```python
 python main.py
+```
+
+从顺丰官网下载验证码
+```python
+python download.py
 ```

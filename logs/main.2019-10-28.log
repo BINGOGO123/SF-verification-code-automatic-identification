@@ -1,0 +1,1073 @@
+2019-10-28 13:47:21 [INFO] [73] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 13:47:22 [INFO] [61] >> 28g7p.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:22 [INFO] [69] >> 28g7p.png 预处理完成，处理结果保存在 tem/2_70_19/28g7p.png
+2019-10-28 13:47:23 [ERROR] [102] >> 28g7p.png 识别结果：2897p  |错误
+2019-10-28 13:47:23 [INFO] [61] >> 4px5a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:23 [INFO] [69] >> 4px5a.png 预处理完成，处理结果保存在 tem/2_70_19/4px5a.png
+2019-10-28 13:47:23 [INFO] [99] >> 4px5a.png 识别结果：4px5a  |正确
+2019-10-28 13:47:23 [INFO] [61] >> 4wc5a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:24 [INFO] [69] >> 4wc5a.png 预处理完成，处理结果保存在 tem/2_70_19/4wc5a.png
+2019-10-28 13:47:24 [ERROR] [102] >> 4wc5a.png 识别结果：4we5a  |错误
+2019-10-28 13:47:24 [INFO] [61] >> 6rdb3.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:24 [INFO] [69] >> 6rdb3.png 预处理完成，处理结果保存在 tem/2_70_19/6rdb3.png
+2019-10-28 13:47:24 [INFO] [99] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-28 13:47:24 [INFO] [61] >> 6wkrk.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:24 [INFO] [69] >> 6wkrk.png 预处理完成，处理结果保存在 tem/2_70_19/6wkrk.png
+2019-10-28 13:47:24 [INFO] [99] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-28 13:47:24 [INFO] [61] >> 6xea7.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:24 [INFO] [69] >> 6xea7.png 预处理完成，处理结果保存在 tem/2_70_19/6xea7.png
+2019-10-28 13:47:25 [ERROR] [102] >> 6xea7.png 识别结果：6xea/  |错误
+2019-10-28 13:47:25 [INFO] [61] >> 7aedx.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:25 [INFO] [69] >> 7aedx.png 预处理完成，处理结果保存在 tem/2_70_19/7aedx.png
+2019-10-28 13:47:25 [ERROR] [102] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-28 13:47:25 [INFO] [61] >> 84m33.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:25 [INFO] [69] >> 84m33.png 预处理完成，处理结果保存在 tem/2_70_19/84m33.png
+2019-10-28 13:47:25 [INFO] [99] >> 84m33.png 识别结果：84m33  |正确
+2019-10-28 13:47:25 [INFO] [61] >> 866wb.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:25 [INFO] [69] >> 866wb.png 预处理完成，处理结果保存在 tem/2_70_19/866wb.png
+2019-10-28 13:47:26 [ERROR] [102] >> 866wb.png 识别结果：S66wh  |错误
+2019-10-28 13:47:26 [INFO] [61] >> 8w5c5.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:26 [INFO] [69] >> 8w5c5.png 预处理完成，处理结果保存在 tem/2_70_19/8w5c5.png
+2019-10-28 13:47:26 [ERROR] [102] >> 8w5c5.png 识别结果：Sw5c5  |错误
+2019-10-28 13:47:26 [INFO] [61] >> a5gk3.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:26 [INFO] [69] >> a5gk3.png 预处理完成，处理结果保存在 tem/2_70_19/a5gk3.png
+2019-10-28 13:47:27 [INFO] [99] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-28 13:47:27 [INFO] [61] >> an7ga.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:27 [INFO] [69] >> an7ga.png 预处理完成，处理结果保存在 tem/2_70_19/an7ga.png
+2019-10-28 13:47:27 [ERROR] [102] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-28 13:47:27 [INFO] [61] >> awbwk.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:27 [INFO] [69] >> awbwk.png 预处理完成，处理结果保存在 tem/2_70_19/awbwk.png
+2019-10-28 13:47:28 [INFO] [99] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-28 13:47:28 [INFO] [61] >> bg8rp.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:28 [INFO] [69] >> bg8rp.png 预处理完成，处理结果保存在 tem/2_70_19/bg8rp.png
+2019-10-28 13:47:28 [ERROR] [102] >> bg8rp.png 识别结果：b8grp  |错误
+2019-10-28 13:47:28 [INFO] [61] >> bhb5m.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:28 [INFO] [69] >> bhb5m.png 预处理完成，处理结果保存在 tem/2_70_19/bhb5m.png
+2019-10-28 13:47:28 [INFO] [99] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-28 13:47:28 [INFO] [61] >> cnb5k.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:29 [INFO] [69] >> cnb5k.png 预处理完成，处理结果保存在 tem/2_70_19/cnb5k.png
+2019-10-28 13:47:29 [INFO] [99] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-28 13:47:29 [INFO] [61] >> e3gck.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:29 [INFO] [69] >> e3gck.png 预处理完成，处理结果保存在 tem/2_70_19/e3gck.png
+2019-10-28 13:47:29 [INFO] [99] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-28 13:47:29 [INFO] [61] >> e5nx5.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:29 [INFO] [69] >> e5nx5.png 预处理完成，处理结果保存在 tem/2_70_19/e5nx5.png
+2019-10-28 13:47:30 [ERROR] [102] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-28 13:47:30 [INFO] [61] >> edwwy.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:30 [INFO] [69] >> edwwy.png 预处理完成，处理结果保存在 tem/2_70_19/edwwy.png
+2019-10-28 13:47:30 [INFO] [99] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-28 13:47:30 [INFO] [61] >> exwkb.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:30 [INFO] [69] >> exwkb.png 预处理完成，处理结果保存在 tem/2_70_19/exwkb.png
+2019-10-28 13:47:30 [INFO] [99] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-28 13:47:30 [INFO] [61] >> f873a.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:30 [INFO] [69] >> f873a.png 预处理完成，处理结果保存在 tem/2_70_19/f873a.png
+2019-10-28 13:47:31 [ERROR] [102] >> f873a.png 识别结果：§873a  |错误
+2019-10-28 13:47:31 [INFO] [61] >> frbnr.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:31 [INFO] [69] >> frbnr.png 预处理完成，处理结果保存在 tem/2_70_19/frbnr.png
+2019-10-28 13:47:31 [ERROR] [102] >> frbnr.png 识别结果：frbar  |错误
+2019-10-28 13:47:31 [INFO] [61] >> gdenf.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:31 [INFO] [69] >> gdenf.png 预处理完成，处理结果保存在 tem/2_70_19/gdenf.png
+2019-10-28 13:47:31 [INFO] [99] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-28 13:47:31 [INFO] [61] >> ge554.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:31 [INFO] [69] >> ge554.png 预处理完成，处理结果保存在 tem/2_70_19/ge554.png
+2019-10-28 13:47:32 [INFO] [99] >> ge554.png 识别结果：ge554  |正确
+2019-10-28 13:47:32 [INFO] [61] >> gg7hn.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:32 [INFO] [69] >> gg7hn.png 预处理完成，处理结果保存在 tem/2_70_19/gg7hn.png
+2019-10-28 13:47:32 [ERROR] [102] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-28 13:47:32 [INFO] [61] >> kxrha.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:32 [INFO] [69] >> kxrha.png 预处理完成，处理结果保存在 tem/2_70_19/kxrha.png
+2019-10-28 13:47:32 [INFO] [99] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-28 13:47:32 [INFO] [61] >> mgy56.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:32 [INFO] [69] >> mgy56.png 预处理完成，处理结果保存在 tem/2_70_19/mgy56.png
+2019-10-28 13:47:33 [INFO] [99] >> mgy56.png 识别结果：mgy56  |正确
+2019-10-28 13:47:33 [INFO] [61] >> wpe28.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:33 [INFO] [69] >> wpe28.png 预处理完成，处理结果保存在 tem/2_70_19/wpe28.png
+2019-10-28 13:47:33 [INFO] [99] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-28 13:47:33 [INFO] [61] >> wwrhd.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:33 [INFO] [69] >> wwrhd.png 预处理完成，处理结果保存在 tem/2_70_19/wwrhd.png
+2019-10-28 13:47:33 [INFO] [99] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-28 13:47:33 [INFO] [61] >> x3w73.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:34 [INFO] [69] >> x3w73.png 预处理完成，处理结果保存在 tem/2_70_19/x3w73.png
+2019-10-28 13:47:34 [ERROR] [102] >> x3w73.png 识别结果：x3w7/3  |错误
+2019-10-28 13:47:34 [INFO] [61] >> xfbwg.png 开始预处理，length = 2 min_gray_value = 70 min_total = 19
+2019-10-28 13:47:34 [INFO] [69] >> xfbwg.png 预处理完成，处理结果保存在 tem/2_70_19/xfbwg.png
+2019-10-28 13:47:34 [INFO] [99] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-28 13:47:34 [INFO] [103] >> length = 2 min_gray_value = 70 min_total = 19 总数：31 正确数：18 正确率：0.5806451612903226
+2019-10-28 13:47:34 [INFO] [104] >> ----顺丰快递验证码识别程序结束----
+2019-10-28 14:58:37 [INFO] [147] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 14:58:37 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:25 [INFO] [147] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 14:59:25 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:25 [INFO] [102] >> 28g7p.png 预处理完成，处理结果保存在 pre_deal/28g7p.png
+2019-10-28 14:59:25 [ERROR] [133] >> 28g7p.png 识别结果：2897p  |错误
+2019-10-28 14:59:25 [INFO] [82] >> 4px5a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:25 [INFO] [102] >> 4px5a.png 预处理完成，处理结果保存在 pre_deal/4px5a.png
+2019-10-28 14:59:25 [INFO] [130] >> 4px5a.png 识别结果：4px5a  |正确
+2019-10-28 14:59:25 [INFO] [82] >> 4wc5a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:25 [INFO] [102] >> 4wc5a.png 预处理完成，处理结果保存在 pre_deal/4wc5a.png
+2019-10-28 14:59:26 [ERROR] [133] >> 4wc5a.png 识别结果：4we5a  |错误
+2019-10-28 14:59:26 [INFO] [82] >> 6rdb3.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:26 [INFO] [102] >> 6rdb3.png 预处理完成，处理结果保存在 pre_deal/6rdb3.png
+2019-10-28 14:59:26 [INFO] [130] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-28 14:59:26 [INFO] [82] >> 6wkrk.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:26 [INFO] [102] >> 6wkrk.png 预处理完成，处理结果保存在 pre_deal/6wkrk.png
+2019-10-28 14:59:27 [INFO] [130] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-28 14:59:27 [INFO] [82] >> 6xea7.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:27 [INFO] [102] >> 6xea7.png 预处理完成，处理结果保存在 pre_deal/6xea7.png
+2019-10-28 14:59:27 [ERROR] [133] >> 6xea7.png 识别结果：6xea/  |错误
+2019-10-28 14:59:27 [INFO] [82] >> 7aedx.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:27 [INFO] [102] >> 7aedx.png 预处理完成，处理结果保存在 pre_deal/7aedx.png
+2019-10-28 14:59:27 [ERROR] [133] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-28 14:59:27 [INFO] [82] >> 84m33.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:27 [INFO] [102] >> 84m33.png 预处理完成，处理结果保存在 pre_deal/84m33.png
+2019-10-28 14:59:27 [INFO] [130] >> 84m33.png 识别结果：84m33  |正确
+2019-10-28 14:59:27 [INFO] [82] >> 866wb.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:28 [INFO] [102] >> 866wb.png 预处理完成，处理结果保存在 pre_deal/866wb.png
+2019-10-28 14:59:28 [ERROR] [133] >> 866wb.png 识别结果：S66wh  |错误
+2019-10-28 14:59:28 [INFO] [82] >> 8w5c5.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:28 [INFO] [102] >> 8w5c5.png 预处理完成，处理结果保存在 pre_deal/8w5c5.png
+2019-10-28 14:59:28 [ERROR] [133] >> 8w5c5.png 识别结果：Sw5c5  |错误
+2019-10-28 14:59:28 [INFO] [82] >> a5gk3.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:28 [INFO] [102] >> a5gk3.png 预处理完成，处理结果保存在 pre_deal/a5gk3.png
+2019-10-28 14:59:29 [INFO] [130] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-28 14:59:29 [INFO] [82] >> an7ga.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:29 [INFO] [102] >> an7ga.png 预处理完成，处理结果保存在 pre_deal/an7ga.png
+2019-10-28 14:59:29 [ERROR] [133] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-28 14:59:29 [INFO] [82] >> awbwk.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:29 [INFO] [102] >> awbwk.png 预处理完成，处理结果保存在 pre_deal/awbwk.png
+2019-10-28 14:59:29 [INFO] [130] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-28 14:59:29 [INFO] [82] >> bg8rp.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:29 [INFO] [102] >> bg8rp.png 预处理完成，处理结果保存在 pre_deal/bg8rp.png
+2019-10-28 14:59:30 [ERROR] [133] >> bg8rp.png 识别结果：b8grp  |错误
+2019-10-28 14:59:30 [INFO] [82] >> bhb5m.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:30 [INFO] [102] >> bhb5m.png 预处理完成，处理结果保存在 pre_deal/bhb5m.png
+2019-10-28 14:59:30 [INFO] [130] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-28 14:59:30 [INFO] [82] >> cnb5k.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:30 [INFO] [102] >> cnb5k.png 预处理完成，处理结果保存在 pre_deal/cnb5k.png
+2019-10-28 14:59:30 [INFO] [130] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-28 14:59:30 [INFO] [82] >> e3gck.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:30 [INFO] [102] >> e3gck.png 预处理完成，处理结果保存在 pre_deal/e3gck.png
+2019-10-28 14:59:31 [INFO] [130] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-28 14:59:31 [INFO] [82] >> e5nx5.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:31 [INFO] [102] >> e5nx5.png 预处理完成，处理结果保存在 pre_deal/e5nx5.png
+2019-10-28 14:59:31 [ERROR] [133] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-28 14:59:31 [INFO] [82] >> edwwy.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:31 [INFO] [102] >> edwwy.png 预处理完成，处理结果保存在 pre_deal/edwwy.png
+2019-10-28 14:59:31 [INFO] [130] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-28 14:59:31 [INFO] [82] >> exwkb.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:31 [INFO] [102] >> exwkb.png 预处理完成，处理结果保存在 pre_deal/exwkb.png
+2019-10-28 14:59:32 [INFO] [130] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-28 14:59:32 [INFO] [82] >> f873a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:32 [INFO] [102] >> f873a.png 预处理完成，处理结果保存在 pre_deal/f873a.png
+2019-10-28 14:59:32 [ERROR] [133] >> f873a.png 识别结果：§873a  |错误
+2019-10-28 14:59:32 [INFO] [82] >> frbnr.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:32 [INFO] [102] >> frbnr.png 预处理完成，处理结果保存在 pre_deal/frbnr.png
+2019-10-28 14:59:33 [ERROR] [133] >> frbnr.png 识别结果：frbar  |错误
+2019-10-28 14:59:33 [INFO] [82] >> gdenf.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:33 [INFO] [102] >> gdenf.png 预处理完成，处理结果保存在 pre_deal/gdenf.png
+2019-10-28 14:59:33 [INFO] [130] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-28 14:59:33 [INFO] [82] >> ge554.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:33 [INFO] [102] >> ge554.png 预处理完成，处理结果保存在 pre_deal/ge554.png
+2019-10-28 14:59:33 [INFO] [130] >> ge554.png 识别结果：ge554  |正确
+2019-10-28 14:59:33 [INFO] [82] >> gg7hn.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:33 [INFO] [102] >> gg7hn.png 预处理完成，处理结果保存在 pre_deal/gg7hn.png
+2019-10-28 14:59:34 [ERROR] [133] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-28 14:59:34 [INFO] [82] >> kxrha.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:34 [INFO] [102] >> kxrha.png 预处理完成，处理结果保存在 pre_deal/kxrha.png
+2019-10-28 14:59:34 [INFO] [130] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-28 14:59:34 [INFO] [82] >> mgy56.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:34 [INFO] [102] >> mgy56.png 预处理完成，处理结果保存在 pre_deal/mgy56.png
+2019-10-28 14:59:34 [INFO] [130] >> mgy56.png 识别结果：mgy56  |正确
+2019-10-28 14:59:34 [INFO] [82] >> wpe28.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:34 [INFO] [102] >> wpe28.png 预处理完成，处理结果保存在 pre_deal/wpe28.png
+2019-10-28 14:59:35 [INFO] [130] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-28 14:59:35 [INFO] [82] >> wwrhd.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:35 [INFO] [102] >> wwrhd.png 预处理完成，处理结果保存在 pre_deal/wwrhd.png
+2019-10-28 14:59:35 [INFO] [130] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-28 14:59:35 [INFO] [82] >> x3w73.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:35 [INFO] [102] >> x3w73.png 预处理完成，处理结果保存在 pre_deal/x3w73.png
+2019-10-28 14:59:35 [ERROR] [133] >> x3w73.png 识别结果：x3w7/3  |错误
+2019-10-28 14:59:35 [INFO] [82] >> xfbwg.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 14:59:35 [INFO] [102] >> xfbwg.png 预处理完成，处理结果保存在 pre_deal/xfbwg.png
+2019-10-28 14:59:36 [INFO] [130] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-28 14:59:36 [INFO] [155] >> 验证码总数：31
+正确识别数：18
+识别正确率：0.5806451612903226
+2019-10-28 14:59:36 [INFO] [156] >> ----顺丰快递验证码识别程序结束----
+2019-10-28 15:03:12 [INFO] [147] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:03:12 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:12 [INFO] [102] >> 28g7p.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/28g7p.png
+2019-10-28 15:03:12 [ERROR] [133] >> 28g7p.png 识别结果：2897p  |错误
+2019-10-28 15:03:12 [INFO] [82] >> 4px5a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:12 [INFO] [102] >> 4px5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/4px5a.png
+2019-10-28 15:03:13 [INFO] [130] >> 4px5a.png 识别结果：4px5a  |正确
+2019-10-28 15:03:13 [INFO] [82] >> 4wc5a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:13 [INFO] [102] >> 4wc5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/4wc5a.png
+2019-10-28 15:03:13 [ERROR] [133] >> 4wc5a.png 识别结果：4we5a  |错误
+2019-10-28 15:03:13 [INFO] [82] >> 6rdb3.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:13 [INFO] [102] >> 6rdb3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/6rdb3.png
+2019-10-28 15:03:14 [INFO] [130] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-28 15:03:14 [INFO] [82] >> 6wkrk.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:14 [INFO] [102] >> 6wkrk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/6wkrk.png
+2019-10-28 15:03:14 [INFO] [130] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-28 15:03:14 [INFO] [82] >> 6xea7.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:14 [INFO] [102] >> 6xea7.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/6xea7.png
+2019-10-28 15:03:14 [ERROR] [133] >> 6xea7.png 识别结果：6xea/  |错误
+2019-10-28 15:03:14 [INFO] [82] >> 7aedx.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:14 [INFO] [102] >> 7aedx.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/7aedx.png
+2019-10-28 15:03:14 [ERROR] [133] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-28 15:03:14 [INFO] [82] >> 84m33.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:14 [INFO] [102] >> 84m33.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/84m33.png
+2019-10-28 15:03:15 [INFO] [130] >> 84m33.png 识别结果：84m33  |正确
+2019-10-28 15:03:15 [INFO] [82] >> 866wb.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:15 [INFO] [102] >> 866wb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/866wb.png
+2019-10-28 15:03:15 [ERROR] [133] >> 866wb.png 识别结果：S66wh  |错误
+2019-10-28 15:03:15 [INFO] [82] >> 8w5c5.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:15 [INFO] [102] >> 8w5c5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/8w5c5.png
+2019-10-28 15:03:16 [ERROR] [133] >> 8w5c5.png 识别结果：Sw5c5  |错误
+2019-10-28 15:03:16 [INFO] [82] >> a5gk3.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:16 [INFO] [102] >> a5gk3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/a5gk3.png
+2019-10-28 15:03:16 [INFO] [130] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-28 15:03:16 [INFO] [82] >> an7ga.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:16 [INFO] [102] >> an7ga.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/an7ga.png
+2019-10-28 15:03:16 [ERROR] [133] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-28 15:03:16 [INFO] [82] >> awbwk.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:16 [INFO] [102] >> awbwk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/awbwk.png
+2019-10-28 15:03:17 [INFO] [130] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-28 15:03:17 [INFO] [82] >> bg8rp.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:17 [INFO] [102] >> bg8rp.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/bg8rp.png
+2019-10-28 15:03:17 [ERROR] [133] >> bg8rp.png 识别结果：b8grp  |错误
+2019-10-28 15:03:17 [INFO] [82] >> bhb5m.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:17 [INFO] [102] >> bhb5m.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/bhb5m.png
+2019-10-28 15:03:17 [INFO] [130] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-28 15:03:17 [INFO] [82] >> cnb5k.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:17 [INFO] [102] >> cnb5k.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/cnb5k.png
+2019-10-28 15:03:18 [INFO] [130] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-28 15:03:18 [INFO] [82] >> e3gck.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:18 [INFO] [102] >> e3gck.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/e3gck.png
+2019-10-28 15:03:18 [INFO] [130] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-28 15:03:18 [INFO] [82] >> e5nx5.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:18 [INFO] [102] >> e5nx5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/e5nx5.png
+2019-10-28 15:03:18 [ERROR] [133] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-28 15:03:18 [INFO] [82] >> edwwy.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:18 [INFO] [102] >> edwwy.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/edwwy.png
+2019-10-28 15:03:19 [INFO] [130] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-28 15:03:19 [INFO] [82] >> exwkb.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:19 [INFO] [102] >> exwkb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/exwkb.png
+2019-10-28 15:03:19 [INFO] [130] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-28 15:03:19 [INFO] [82] >> f873a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:19 [INFO] [102] >> f873a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/f873a.png
+2019-10-28 15:03:19 [ERROR] [133] >> f873a.png 识别结果：§873a  |错误
+2019-10-28 15:03:19 [INFO] [82] >> frbnr.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:20 [INFO] [102] >> frbnr.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/frbnr.png
+2019-10-28 15:03:20 [ERROR] [133] >> frbnr.png 识别结果：frbar  |错误
+2019-10-28 15:03:20 [INFO] [82] >> gdenf.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:20 [INFO] [102] >> gdenf.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/gdenf.png
+2019-10-28 15:03:20 [INFO] [130] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-28 15:03:20 [INFO] [82] >> ge554.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:20 [INFO] [102] >> ge554.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/ge554.png
+2019-10-28 15:03:20 [INFO] [130] >> ge554.png 识别结果：ge554  |正确
+2019-10-28 15:03:20 [INFO] [82] >> gg7hn.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:20 [INFO] [102] >> gg7hn.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/gg7hn.png
+2019-10-28 15:03:21 [ERROR] [133] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-28 15:03:21 [INFO] [82] >> kxrha.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:21 [INFO] [102] >> kxrha.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/kxrha.png
+2019-10-28 15:03:21 [INFO] [130] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-28 15:03:21 [INFO] [82] >> mgy56.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:21 [INFO] [102] >> mgy56.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/mgy56.png
+2019-10-28 15:03:22 [INFO] [130] >> mgy56.png 识别结果：mgy56  |正确
+2019-10-28 15:03:22 [INFO] [82] >> wpe28.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:22 [INFO] [102] >> wpe28.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/wpe28.png
+2019-10-28 15:03:22 [INFO] [130] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-28 15:03:22 [INFO] [82] >> wwrhd.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:22 [INFO] [102] >> wwrhd.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/wwrhd.png
+2019-10-28 15:03:22 [INFO] [130] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-28 15:03:22 [INFO] [82] >> x3w73.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:22 [INFO] [102] >> x3w73.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/x3w73.png
+2019-10-28 15:03:23 [ERROR] [133] >> x3w73.png 识别结果：x3w7/3  |错误
+2019-10-28 15:03:23 [INFO] [82] >> xfbwg.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:03:23 [INFO] [102] >> xfbwg.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal_(2, 70, 19)/xfbwg.png
+2019-10-28 15:03:23 [INFO] [130] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-28 15:03:23 [INFO] [155] >> 验证码总数：31
+正确识别数：18
+识别正确率：0.5806451612903226
+2019-10-28 15:03:23 [INFO] [156] >> ----顺丰快递验证码识别程序结束----
+2019-10-28 15:03:52 [INFO] [147] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:03:52 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:12 [INFO] [147] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:04:12 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:12 [INFO] [102] >> 28g7p.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/28g7p.png
+2019-10-28 15:04:12 [ERROR] [133] >> 28g7p.png 识别结果：2897p  |错误
+2019-10-28 15:04:12 [INFO] [82] >> 4px5a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:12 [INFO] [102] >> 4px5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/4px5a.png
+2019-10-28 15:04:13 [INFO] [130] >> 4px5a.png 识别结果：4px5a  |正确
+2019-10-28 15:04:13 [INFO] [82] >> 4wc5a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:13 [INFO] [102] >> 4wc5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/4wc5a.png
+2019-10-28 15:04:13 [ERROR] [133] >> 4wc5a.png 识别结果：4we5a  |错误
+2019-10-28 15:04:13 [INFO] [82] >> 6rdb3.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:13 [INFO] [102] >> 6rdb3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/6rdb3.png
+2019-10-28 15:04:13 [INFO] [130] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-28 15:04:13 [INFO] [82] >> 6wkrk.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:13 [INFO] [102] >> 6wkrk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/6wkrk.png
+2019-10-28 15:04:14 [INFO] [130] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-28 15:04:14 [INFO] [82] >> 6xea7.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:14 [INFO] [102] >> 6xea7.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/6xea7.png
+2019-10-28 15:04:14 [ERROR] [133] >> 6xea7.png 识别结果：6xea/  |错误
+2019-10-28 15:04:14 [INFO] [82] >> 7aedx.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:14 [INFO] [102] >> 7aedx.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/7aedx.png
+2019-10-28 15:04:15 [ERROR] [133] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-28 15:04:15 [INFO] [82] >> 84m33.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:15 [INFO] [102] >> 84m33.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/84m33.png
+2019-10-28 15:04:15 [INFO] [130] >> 84m33.png 识别结果：84m33  |正确
+2019-10-28 15:04:15 [INFO] [82] >> 866wb.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:15 [INFO] [102] >> 866wb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/866wb.png
+2019-10-28 15:04:16 [ERROR] [133] >> 866wb.png 识别结果：S66wh  |错误
+2019-10-28 15:04:16 [INFO] [82] >> 8w5c5.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:16 [INFO] [102] >> 8w5c5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/8w5c5.png
+2019-10-28 15:04:16 [ERROR] [133] >> 8w5c5.png 识别结果：Sw5c5  |错误
+2019-10-28 15:04:16 [INFO] [82] >> a5gk3.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:16 [INFO] [102] >> a5gk3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/a5gk3.png
+2019-10-28 15:04:17 [INFO] [130] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-28 15:04:17 [INFO] [82] >> an7ga.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:17 [INFO] [102] >> an7ga.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/an7ga.png
+2019-10-28 15:04:17 [ERROR] [133] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-28 15:04:17 [INFO] [82] >> awbwk.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:17 [INFO] [102] >> awbwk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/awbwk.png
+2019-10-28 15:04:18 [INFO] [130] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-28 15:04:18 [INFO] [82] >> bg8rp.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:18 [INFO] [102] >> bg8rp.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/bg8rp.png
+2019-10-28 15:04:18 [ERROR] [133] >> bg8rp.png 识别结果：b8grp  |错误
+2019-10-28 15:04:18 [INFO] [82] >> bhb5m.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:18 [INFO] [102] >> bhb5m.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/bhb5m.png
+2019-10-28 15:04:18 [INFO] [130] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-28 15:04:18 [INFO] [82] >> cnb5k.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:18 [INFO] [102] >> cnb5k.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/cnb5k.png
+2019-10-28 15:04:19 [INFO] [130] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-28 15:04:19 [INFO] [82] >> e3gck.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:19 [INFO] [102] >> e3gck.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/e3gck.png
+2019-10-28 15:04:19 [INFO] [130] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-28 15:04:19 [INFO] [82] >> e5nx5.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:19 [INFO] [102] >> e5nx5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/e5nx5.png
+2019-10-28 15:04:19 [ERROR] [133] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-28 15:04:19 [INFO] [82] >> edwwy.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:19 [INFO] [102] >> edwwy.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/edwwy.png
+2019-10-28 15:04:20 [INFO] [130] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-28 15:04:20 [INFO] [82] >> exwkb.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:20 [INFO] [102] >> exwkb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/exwkb.png
+2019-10-28 15:04:20 [INFO] [130] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-28 15:04:20 [INFO] [82] >> f873a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:20 [INFO] [102] >> f873a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/f873a.png
+2019-10-28 15:04:21 [ERROR] [133] >> f873a.png 识别结果：§873a  |错误
+2019-10-28 15:04:21 [INFO] [82] >> frbnr.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:21 [INFO] [102] >> frbnr.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/frbnr.png
+2019-10-28 15:04:21 [ERROR] [133] >> frbnr.png 识别结果：frbar  |错误
+2019-10-28 15:04:21 [INFO] [82] >> gdenf.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:21 [INFO] [102] >> gdenf.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/gdenf.png
+2019-10-28 15:04:21 [INFO] [130] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-28 15:04:21 [INFO] [82] >> ge554.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:21 [INFO] [102] >> ge554.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/ge554.png
+2019-10-28 15:04:22 [INFO] [130] >> ge554.png 识别结果：ge554  |正确
+2019-10-28 15:04:22 [INFO] [82] >> gg7hn.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:22 [INFO] [102] >> gg7hn.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/gg7hn.png
+2019-10-28 15:04:22 [ERROR] [133] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-28 15:04:22 [INFO] [82] >> kxrha.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:22 [INFO] [102] >> kxrha.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/kxrha.png
+2019-10-28 15:04:23 [INFO] [130] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-28 15:04:23 [INFO] [82] >> mgy56.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:23 [INFO] [102] >> mgy56.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/mgy56.png
+2019-10-28 15:04:23 [INFO] [130] >> mgy56.png 识别结果：mgy56  |正确
+2019-10-28 15:04:23 [INFO] [82] >> wpe28.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:23 [INFO] [102] >> wpe28.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/wpe28.png
+2019-10-28 15:04:24 [INFO] [130] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-28 15:04:24 [INFO] [82] >> wwrhd.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:24 [INFO] [102] >> wwrhd.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/wwrhd.png
+2019-10-28 15:04:24 [INFO] [130] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-28 15:04:24 [INFO] [82] >> x3w73.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:24 [INFO] [102] >> x3w73.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/x3w73.png
+2019-10-28 15:04:24 [ERROR] [133] >> x3w73.png 识别结果：x3w7/3  |错误
+2019-10-28 15:04:24 [INFO] [82] >> xfbwg.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:04:24 [INFO] [102] >> xfbwg.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/xfbwg.png
+2019-10-28 15:04:25 [INFO] [130] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-28 15:04:25 [INFO] [155] >> 验证码总数：31
+正确识别数：18
+识别正确率：0.5806451612903226
+2019-10-28 15:04:25 [INFO] [156] >> ----顺丰快递验证码识别程序结束----
+2019-10-28 15:07:43 [INFO] [149] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:07:43 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:43 [INFO] [102] >> 28g7p.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/28g7p.png
+2019-10-28 15:07:43 [ERROR] [137] >> 28g7p.png 识别结果：2897p  |错误
+2019-10-28 15:07:43 [INFO] [82] >> 4px5a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:43 [INFO] [102] >> 4px5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/4px5a.png
+2019-10-28 15:07:43 [INFO] [133] >> 4px5a.png 识别结果：4px5a  |正确
+2019-10-28 15:07:43 [INFO] [82] >> 4wc5a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:43 [INFO] [102] >> 4wc5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/4wc5a.png
+2019-10-28 15:07:44 [ERROR] [137] >> 4wc5a.png 识别结果：4we5a  |错误
+2019-10-28 15:07:44 [INFO] [82] >> 6rdb3.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:44 [INFO] [102] >> 6rdb3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/6rdb3.png
+2019-10-28 15:07:44 [INFO] [133] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-28 15:07:44 [INFO] [82] >> 6wkrk.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:44 [INFO] [102] >> 6wkrk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/6wkrk.png
+2019-10-28 15:07:45 [INFO] [133] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-28 15:07:45 [INFO] [82] >> 6xea7.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:45 [INFO] [102] >> 6xea7.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/6xea7.png
+2019-10-28 15:07:45 [ERROR] [137] >> 6xea7.png 识别结果：6xea/  |错误
+2019-10-28 15:07:45 [INFO] [82] >> 7aedx.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:45 [INFO] [102] >> 7aedx.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/7aedx.png
+2019-10-28 15:07:45 [ERROR] [137] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-28 15:07:45 [INFO] [82] >> 84m33.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:45 [INFO] [102] >> 84m33.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/84m33.png
+2019-10-28 15:07:46 [INFO] [133] >> 84m33.png 识别结果：84m33  |正确
+2019-10-28 15:07:46 [INFO] [82] >> 866wb.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:46 [INFO] [102] >> 866wb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/866wb.png
+2019-10-28 15:07:46 [ERROR] [137] >> 866wb.png 识别结果：S66wh  |错误
+2019-10-28 15:07:46 [INFO] [82] >> 8w5c5.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:46 [INFO] [102] >> 8w5c5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/8w5c5.png
+2019-10-28 15:07:46 [ERROR] [137] >> 8w5c5.png 识别结果：Sw5c5  |错误
+2019-10-28 15:07:46 [INFO] [82] >> a5gk3.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:46 [INFO] [102] >> a5gk3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/a5gk3.png
+2019-10-28 15:07:46 [INFO] [133] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-28 15:07:46 [INFO] [82] >> an7ga.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:47 [INFO] [102] >> an7ga.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/an7ga.png
+2019-10-28 15:07:47 [ERROR] [137] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-28 15:07:47 [INFO] [82] >> awbwk.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:47 [INFO] [102] >> awbwk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/awbwk.png
+2019-10-28 15:07:48 [INFO] [133] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-28 15:07:48 [INFO] [82] >> bg8rp.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:48 [INFO] [102] >> bg8rp.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/bg8rp.png
+2019-10-28 15:07:48 [ERROR] [137] >> bg8rp.png 识别结果：b8grp  |错误
+2019-10-28 15:07:48 [INFO] [82] >> bhb5m.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:48 [INFO] [102] >> bhb5m.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/bhb5m.png
+2019-10-28 15:07:48 [INFO] [133] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-28 15:07:48 [INFO] [82] >> cnb5k.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:49 [INFO] [102] >> cnb5k.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/cnb5k.png
+2019-10-28 15:07:49 [INFO] [133] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-28 15:07:49 [INFO] [82] >> e3gck.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:49 [INFO] [102] >> e3gck.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/e3gck.png
+2019-10-28 15:07:49 [INFO] [133] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-28 15:07:49 [INFO] [82] >> e5nx5.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:49 [INFO] [102] >> e5nx5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/e5nx5.png
+2019-10-28 15:07:50 [ERROR] [137] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-28 15:07:50 [INFO] [82] >> edwwy.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:50 [INFO] [102] >> edwwy.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/edwwy.png
+2019-10-28 15:07:50 [INFO] [133] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-28 15:07:50 [INFO] [82] >> exwkb.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:50 [INFO] [102] >> exwkb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/exwkb.png
+2019-10-28 15:07:51 [INFO] [133] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-28 15:07:51 [INFO] [82] >> f873a.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:51 [INFO] [102] >> f873a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/f873a.png
+2019-10-28 15:07:51 [ERROR] [137] >> f873a.png 识别结果：§873a  |错误
+2019-10-28 15:07:51 [INFO] [82] >> frbnr.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:51 [INFO] [102] >> frbnr.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/frbnr.png
+2019-10-28 15:07:51 [ERROR] [137] >> frbnr.png 识别结果：frbar  |错误
+2019-10-28 15:07:51 [INFO] [82] >> gdenf.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:51 [INFO] [102] >> gdenf.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/gdenf.png
+2019-10-28 15:07:52 [INFO] [133] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-28 15:07:52 [INFO] [82] >> ge554.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:52 [INFO] [102] >> ge554.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/ge554.png
+2019-10-28 15:07:52 [INFO] [133] >> ge554.png 识别结果：ge554  |正确
+2019-10-28 15:07:52 [INFO] [82] >> gg7hn.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:52 [INFO] [102] >> gg7hn.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/gg7hn.png
+2019-10-28 15:07:53 [ERROR] [137] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-28 15:07:53 [INFO] [82] >> kxrha.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:53 [INFO] [102] >> kxrha.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/kxrha.png
+2019-10-28 15:07:53 [INFO] [133] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-28 15:07:53 [INFO] [82] >> mgy56.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:53 [INFO] [102] >> mgy56.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/mgy56.png
+2019-10-28 15:07:53 [INFO] [133] >> mgy56.png 识别结果：mgy56  |正确
+2019-10-28 15:07:53 [INFO] [82] >> wpe28.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:53 [INFO] [102] >> wpe28.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/wpe28.png
+2019-10-28 15:07:54 [INFO] [133] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-28 15:07:54 [INFO] [82] >> wwrhd.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:54 [INFO] [102] >> wwrhd.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/wwrhd.png
+2019-10-28 15:07:54 [INFO] [133] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-28 15:07:54 [INFO] [82] >> x3w73.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:54 [INFO] [102] >> x3w73.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/x3w73.png
+2019-10-28 15:07:54 [ERROR] [137] >> x3w73.png 识别结果：x3w7/3  |错误
+2019-10-28 15:07:54 [INFO] [82] >> xfbwg.png 开始预处理，preDealFunction = imagePreDeal preDealArgs = (2, 70, 19)
+2019-10-28 15:07:54 [INFO] [102] >> xfbwg.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/xfbwg.png
+2019-10-28 15:07:55 [INFO] [133] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-28 15:07:55 [INFO] [157] >> 验证码总数：31
+正确识别数：18
+识别正确率：0.5806451612903226
+2019-10-28 15:07:55 [INFO] [158] >> ----顺丰快递验证码识别程序结束----
+2019-10-28 15:10:02 [INFO] [149] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:10:26 [INFO] [149] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:10:26 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = [<function imagePreDeal at 0x0000016D503F9510>, <function imagePreDeal1 at 0x0000016D5EF700D0>] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:17 [INFO] [149] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:13:17 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:17 [INFO] [102] >> 28g7p.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/28g7p.png
+2019-10-28 15:13:18 [ERROR] [137] >> 28g7p.png 识别结果：2897p  |错误
+2019-10-28 15:13:18 [INFO] [82] >> 4px5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:18 [INFO] [102] >> 4px5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/4px5a.png
+2019-10-28 15:13:18 [INFO] [133] >> 4px5a.png 识别结果：4px5a  |正确
+2019-10-28 15:13:18 [INFO] [82] >> 4wc5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:18 [INFO] [102] >> 4wc5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/4wc5a.png
+2019-10-28 15:13:19 [ERROR] [137] >> 4wc5a.png 识别结果：4we5a  |错误
+2019-10-28 15:13:19 [INFO] [82] >> 6rdb3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:19 [INFO] [102] >> 6rdb3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/6rdb3.png
+2019-10-28 15:13:19 [INFO] [133] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-28 15:13:19 [INFO] [82] >> 6wkrk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:19 [INFO] [102] >> 6wkrk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/6wkrk.png
+2019-10-28 15:13:19 [INFO] [133] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-28 15:13:19 [INFO] [82] >> 6xea7.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:19 [INFO] [102] >> 6xea7.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/6xea7.png
+2019-10-28 15:13:20 [ERROR] [137] >> 6xea7.png 识别结果：6xea/  |错误
+2019-10-28 15:13:20 [INFO] [82] >> 7aedx.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:20 [INFO] [102] >> 7aedx.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/7aedx.png
+2019-10-28 15:13:20 [ERROR] [137] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-28 15:13:20 [INFO] [82] >> 84m33.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:20 [INFO] [102] >> 84m33.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/84m33.png
+2019-10-28 15:13:20 [INFO] [133] >> 84m33.png 识别结果：84m33  |正确
+2019-10-28 15:13:20 [INFO] [82] >> 866wb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:20 [INFO] [102] >> 866wb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/866wb.png
+2019-10-28 15:13:21 [ERROR] [137] >> 866wb.png 识别结果：S66wh  |错误
+2019-10-28 15:13:21 [INFO] [82] >> 8w5c5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:21 [INFO] [102] >> 8w5c5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/8w5c5.png
+2019-10-28 15:13:21 [ERROR] [137] >> 8w5c5.png 识别结果：Sw5c5  |错误
+2019-10-28 15:13:21 [INFO] [82] >> a5gk3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:21 [INFO] [102] >> a5gk3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/a5gk3.png
+2019-10-28 15:13:21 [INFO] [133] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-28 15:13:22 [INFO] [82] >> an7ga.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:22 [INFO] [102] >> an7ga.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/an7ga.png
+2019-10-28 15:13:22 [ERROR] [137] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-28 15:13:22 [INFO] [82] >> awbwk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:22 [INFO] [102] >> awbwk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/awbwk.png
+2019-10-28 15:13:22 [INFO] [133] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-28 15:13:22 [INFO] [82] >> bg8rp.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:22 [INFO] [102] >> bg8rp.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/bg8rp.png
+2019-10-28 15:13:23 [ERROR] [137] >> bg8rp.png 识别结果：b8grp  |错误
+2019-10-28 15:13:23 [INFO] [82] >> bhb5m.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:23 [INFO] [102] >> bhb5m.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/bhb5m.png
+2019-10-28 15:13:23 [INFO] [133] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-28 15:13:23 [INFO] [82] >> cnb5k.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:23 [INFO] [102] >> cnb5k.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/cnb5k.png
+2019-10-28 15:13:24 [INFO] [133] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-28 15:13:24 [INFO] [82] >> e3gck.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:24 [INFO] [102] >> e3gck.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/e3gck.png
+2019-10-28 15:13:24 [INFO] [133] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-28 15:13:24 [INFO] [82] >> e5nx5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:24 [INFO] [102] >> e5nx5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/e5nx5.png
+2019-10-28 15:13:24 [ERROR] [137] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-28 15:13:24 [INFO] [82] >> edwwy.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:24 [INFO] [102] >> edwwy.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/edwwy.png
+2019-10-28 15:13:25 [INFO] [133] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-28 15:13:25 [INFO] [82] >> exwkb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:25 [INFO] [102] >> exwkb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/exwkb.png
+2019-10-28 15:13:25 [INFO] [133] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-28 15:13:25 [INFO] [82] >> f873a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:25 [INFO] [102] >> f873a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/f873a.png
+2019-10-28 15:13:25 [ERROR] [137] >> f873a.png 识别结果：§873a  |错误
+2019-10-28 15:13:25 [INFO] [82] >> frbnr.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:25 [INFO] [102] >> frbnr.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/frbnr.png
+2019-10-28 15:13:26 [ERROR] [137] >> frbnr.png 识别结果：frbar  |错误
+2019-10-28 15:13:26 [INFO] [82] >> gdenf.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:26 [INFO] [102] >> gdenf.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/gdenf.png
+2019-10-28 15:13:26 [INFO] [133] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-28 15:13:26 [INFO] [82] >> ge554.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:26 [INFO] [102] >> ge554.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/ge554.png
+2019-10-28 15:13:27 [INFO] [133] >> ge554.png 识别结果：ge554  |正确
+2019-10-28 15:13:27 [INFO] [82] >> gg7hn.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:27 [INFO] [102] >> gg7hn.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/gg7hn.png
+2019-10-28 15:13:27 [ERROR] [137] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-28 15:13:27 [INFO] [82] >> kxrha.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:27 [INFO] [102] >> kxrha.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/kxrha.png
+2019-10-28 15:13:28 [INFO] [133] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-28 15:13:28 [INFO] [82] >> mgy56.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:28 [INFO] [102] >> mgy56.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/mgy56.png
+2019-10-28 15:13:28 [INFO] [133] >> mgy56.png 识别结果：mgy56  |正确
+2019-10-28 15:13:28 [INFO] [82] >> wpe28.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:28 [INFO] [102] >> wpe28.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/wpe28.png
+2019-10-28 15:13:28 [INFO] [133] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-28 15:13:28 [INFO] [82] >> wwrhd.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:28 [INFO] [102] >> wwrhd.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/wwrhd.png
+2019-10-28 15:13:29 [INFO] [133] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-28 15:13:29 [INFO] [82] >> x3w73.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:29 [INFO] [102] >> x3w73.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/x3w73.png
+2019-10-28 15:13:29 [ERROR] [137] >> x3w73.png 识别结果：x3w7/3  |错误
+2019-10-28 15:13:29 [INFO] [82] >> xfbwg.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal1'] preDealArgs = ((2, 70, 19), ())
+2019-10-28 15:13:29 [INFO] [102] >> xfbwg.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 70, 19)/imagePreDeal1()/xfbwg.png
+2019-10-28 15:13:30 [INFO] [133] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-28 15:13:30 [INFO] [157] >> 验证码总数：31
+正确识别数：18
+识别正确率：0.5806451612903226
+2019-10-28 15:13:30 [INFO] [158] >> ----顺丰快递验证码识别程序结束----
+2019-10-28 15:42:05 [INFO] [149] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:42:05 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:05 [INFO] [102] >> 28g7p.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/28g7p.png
+2019-10-28 15:42:06 [ERROR] [137] >> 28g7p.png 识别结果：  |错误
+2019-10-28 15:42:06 [INFO] [82] >> 4px5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:06 [INFO] [102] >> 4px5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/4px5a.png
+2019-10-28 15:42:06 [ERROR] [137] >> 4px5a.png 识别结果：  |错误
+2019-10-28 15:42:06 [INFO] [82] >> 4wc5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:06 [INFO] [102] >> 4wc5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/4wc5a.png
+2019-10-28 15:42:07 [ERROR] [137] >> 4wc5a.png 识别结果：  |错误
+2019-10-28 15:42:07 [INFO] [82] >> 6rdb3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:07 [INFO] [102] >> 6rdb3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/6rdb3.png
+2019-10-28 15:42:07 [ERROR] [137] >> 6rdb3.png 识别结果：  |错误
+2019-10-28 15:42:07 [INFO] [82] >> 6wkrk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:07 [INFO] [102] >> 6wkrk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/6wkrk.png
+2019-10-28 15:42:07 [ERROR] [137] >> 6wkrk.png 识别结果：  |错误
+2019-10-28 15:42:07 [INFO] [82] >> 6xea7.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:07 [INFO] [102] >> 6xea7.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/6xea7.png
+2019-10-28 15:42:08 [ERROR] [137] >> 6xea7.png 识别结果：  |错误
+2019-10-28 15:42:08 [INFO] [82] >> 7aedx.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:08 [INFO] [102] >> 7aedx.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/7aedx.png
+2019-10-28 15:42:08 [ERROR] [137] >> 7aedx.png 识别结果：  |错误
+2019-10-28 15:42:08 [INFO] [82] >> 84m33.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:08 [INFO] [102] >> 84m33.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/84m33.png
+2019-10-28 15:42:08 [ERROR] [137] >> 84m33.png 识别结果：  |错误
+2019-10-28 15:42:08 [INFO] [82] >> 866wb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:08 [INFO] [102] >> 866wb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/866wb.png
+2019-10-28 15:42:09 [ERROR] [137] >> 866wb.png 识别结果：  |错误
+2019-10-28 15:42:09 [INFO] [82] >> 8w5c5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:09 [INFO] [102] >> 8w5c5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/8w5c5.png
+2019-10-28 15:42:09 [ERROR] [137] >> 8w5c5.png 识别结果：  |错误
+2019-10-28 15:42:09 [INFO] [82] >> a5gk3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:09 [INFO] [102] >> a5gk3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/a5gk3.png
+2019-10-28 15:42:09 [ERROR] [137] >> a5gk3.png 识别结果：  |错误
+2019-10-28 15:42:09 [INFO] [82] >> an7ga.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:09 [INFO] [102] >> an7ga.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/an7ga.png
+2019-10-28 15:42:10 [ERROR] [137] >> an7ga.png 识别结果：  |错误
+2019-10-28 15:42:10 [INFO] [82] >> awbwk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:10 [INFO] [102] >> awbwk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/awbwk.png
+2019-10-28 15:42:10 [ERROR] [137] >> awbwk.png 识别结果：  |错误
+2019-10-28 15:42:10 [INFO] [82] >> bg8rp.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:10 [INFO] [102] >> bg8rp.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/bg8rp.png
+2019-10-28 15:42:10 [ERROR] [137] >> bg8rp.png 识别结果：  |错误
+2019-10-28 15:42:10 [INFO] [82] >> bhb5m.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:10 [INFO] [102] >> bhb5m.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/bhb5m.png
+2019-10-28 15:42:10 [ERROR] [137] >> bhb5m.png 识别结果：  |错误
+2019-10-28 15:42:10 [INFO] [82] >> cnb5k.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:11 [INFO] [102] >> cnb5k.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/cnb5k.png
+2019-10-28 15:42:11 [ERROR] [137] >> cnb5k.png 识别结果：  |错误
+2019-10-28 15:42:11 [INFO] [82] >> e3gck.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:11 [INFO] [102] >> e3gck.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/e3gck.png
+2019-10-28 15:42:11 [ERROR] [137] >> e3gck.png 识别结果：  |错误
+2019-10-28 15:42:11 [INFO] [82] >> e5nx5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:11 [INFO] [102] >> e5nx5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/e5nx5.png
+2019-10-28 15:42:11 [ERROR] [137] >> e5nx5.png 识别结果：  |错误
+2019-10-28 15:42:11 [INFO] [82] >> edwwy.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:12 [INFO] [102] >> edwwy.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/edwwy.png
+2019-10-28 15:42:12 [ERROR] [137] >> edwwy.png 识别结果：  |错误
+2019-10-28 15:42:12 [INFO] [82] >> exwkb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:12 [INFO] [102] >> exwkb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/exwkb.png
+2019-10-28 15:42:12 [ERROR] [137] >> exwkb.png 识别结果：  |错误
+2019-10-28 15:42:12 [INFO] [82] >> f873a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:12 [INFO] [102] >> f873a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/f873a.png
+2019-10-28 15:42:13 [ERROR] [137] >> f873a.png 识别结果：  |错误
+2019-10-28 15:42:13 [INFO] [82] >> frbnr.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:13 [INFO] [102] >> frbnr.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/frbnr.png
+2019-10-28 15:42:13 [ERROR] [137] >> frbnr.png 识别结果：  |错误
+2019-10-28 15:42:13 [INFO] [82] >> gdenf.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:13 [INFO] [102] >> gdenf.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/gdenf.png
+2019-10-28 15:42:13 [ERROR] [137] >> gdenf.png 识别结果：  |错误
+2019-10-28 15:42:13 [INFO] [82] >> ge554.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:13 [INFO] [102] >> ge554.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/ge554.png
+2019-10-28 15:42:14 [ERROR] [137] >> ge554.png 识别结果：  |错误
+2019-10-28 15:42:14 [INFO] [82] >> gg7hn.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:14 [INFO] [102] >> gg7hn.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/gg7hn.png
+2019-10-28 15:42:14 [ERROR] [137] >> gg7hn.png 识别结果：  |错误
+2019-10-28 15:42:14 [INFO] [82] >> kxrha.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:14 [INFO] [102] >> kxrha.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/kxrha.png
+2019-10-28 15:42:14 [ERROR] [137] >> kxrha.png 识别结果：  |错误
+2019-10-28 15:42:14 [INFO] [82] >> mgy56.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:14 [INFO] [102] >> mgy56.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/mgy56.png
+2019-10-28 15:42:14 [ERROR] [137] >> mgy56.png 识别结果：  |错误
+2019-10-28 15:42:14 [INFO] [82] >> wpe28.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:14 [INFO] [102] >> wpe28.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/wpe28.png
+2019-10-28 15:42:15 [ERROR] [137] >> wpe28.png 识别结果：  |错误
+2019-10-28 15:42:15 [INFO] [82] >> wwrhd.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:15 [INFO] [102] >> wwrhd.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/wwrhd.png
+2019-10-28 15:42:15 [ERROR] [137] >> wwrhd.png 识别结果：  |错误
+2019-10-28 15:42:15 [INFO] [82] >> x3w73.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:15 [INFO] [102] >> x3w73.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/x3w73.png
+2019-10-28 15:42:16 [ERROR] [137] >> x3w73.png 识别结果：  |错误
+2019-10-28 15:42:16 [INFO] [82] >> xfbwg.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 200, 19), (1, 10, 4))
+2019-10-28 15:42:16 [INFO] [102] >> xfbwg.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 200, 19)/imagePreDeal(1, 10, 4)/xfbwg.png
+2019-10-28 15:42:16 [ERROR] [137] >> xfbwg.png 识别结果：  |错误
+2019-10-28 15:42:16 [INFO] [157] >> 验证码总数：31 正确识别数：0 识别正确率：0.0
+2019-10-28 15:42:16 [INFO] [158] >> ----顺丰快递验证码识别程序结束----
+2019-10-28 15:42:50 [INFO] [149] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:42:50 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:50 [INFO] [102] >> 28g7p.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/28g7p.png
+2019-10-28 15:42:51 [ERROR] [137] >> 28g7p.png 识别结果：28g/p  |错误
+2019-10-28 15:42:51 [INFO] [82] >> 4px5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:51 [INFO] [102] >> 4px5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/4px5a.png
+2019-10-28 15:42:51 [INFO] [133] >> 4px5a.png 识别结果：4px5a  |正确
+2019-10-28 15:42:51 [INFO] [82] >> 4wc5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:51 [INFO] [102] >> 4wc5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/4wc5a.png
+2019-10-28 15:42:51 [ERROR] [137] >> 4wc5a.png 识别结果：4we5a  |错误
+2019-10-28 15:42:51 [INFO] [82] >> 6rdb3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:51 [INFO] [102] >> 6rdb3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/6rdb3.png
+2019-10-28 15:42:52 [INFO] [133] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-28 15:42:52 [INFO] [82] >> 6wkrk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:52 [INFO] [102] >> 6wkrk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/6wkrk.png
+2019-10-28 15:42:52 [INFO] [133] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-28 15:42:52 [INFO] [82] >> 6xea7.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:52 [INFO] [102] >> 6xea7.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/6xea7.png
+2019-10-28 15:42:53 [ERROR] [137] >> 6xea7.png 识别结果：6xea/  |错误
+2019-10-28 15:42:53 [INFO] [82] >> 7aedx.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:53 [INFO] [102] >> 7aedx.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/7aedx.png
+2019-10-28 15:42:53 [ERROR] [137] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-28 15:42:53 [INFO] [82] >> 84m33.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:53 [INFO] [102] >> 84m33.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/84m33.png
+2019-10-28 15:42:53 [INFO] [133] >> 84m33.png 识别结果：84m33  |正确
+2019-10-28 15:42:53 [INFO] [82] >> 866wb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:53 [INFO] [102] >> 866wb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/866wb.png
+2019-10-28 15:42:54 [INFO] [133] >> 866wb.png 识别结果：866wb  |正确
+2019-10-28 15:42:54 [INFO] [82] >> 8w5c5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:54 [INFO] [102] >> 8w5c5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/8w5c5.png
+2019-10-28 15:42:54 [ERROR] [137] >> 8w5c5.png 识别结果：Sw5cS  |错误
+2019-10-28 15:42:54 [INFO] [82] >> a5gk3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:54 [INFO] [102] >> a5gk3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/a5gk3.png
+2019-10-28 15:42:54 [INFO] [133] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-28 15:42:54 [INFO] [82] >> an7ga.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:54 [INFO] [102] >> an7ga.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/an7ga.png
+2019-10-28 15:42:55 [ERROR] [137] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-28 15:42:55 [INFO] [82] >> awbwk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:55 [INFO] [102] >> awbwk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/awbwk.png
+2019-10-28 15:42:55 [INFO] [133] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-28 15:42:55 [INFO] [82] >> bg8rp.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:55 [INFO] [102] >> bg8rp.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/bg8rp.png
+2019-10-28 15:42:56 [ERROR] [137] >> bg8rp.png 识别结果：b&grp  |错误
+2019-10-28 15:42:56 [INFO] [82] >> bhb5m.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:56 [INFO] [102] >> bhb5m.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/bhb5m.png
+2019-10-28 15:42:56 [INFO] [133] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-28 15:42:56 [INFO] [82] >> cnb5k.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:56 [INFO] [102] >> cnb5k.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/cnb5k.png
+2019-10-28 15:42:56 [INFO] [133] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-28 15:42:56 [INFO] [82] >> e3gck.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:56 [INFO] [102] >> e3gck.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/e3gck.png
+2019-10-28 15:42:57 [INFO] [133] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-28 15:42:57 [INFO] [82] >> e5nx5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:57 [INFO] [102] >> e5nx5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/e5nx5.png
+2019-10-28 15:42:57 [ERROR] [137] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-28 15:42:57 [INFO] [82] >> edwwy.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:57 [INFO] [102] >> edwwy.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/edwwy.png
+2019-10-28 15:42:57 [INFO] [133] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-28 15:42:57 [INFO] [82] >> exwkb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:57 [INFO] [102] >> exwkb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/exwkb.png
+2019-10-28 15:42:58 [INFO] [133] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-28 15:42:58 [INFO] [82] >> f873a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:58 [INFO] [102] >> f873a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/f873a.png
+2019-10-28 15:42:58 [ERROR] [137] >> f873a.png 识别结果：f&/3a  |错误
+2019-10-28 15:42:58 [INFO] [82] >> frbnr.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:58 [INFO] [102] >> frbnr.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/frbnr.png
+2019-10-28 15:42:58 [ERROR] [137] >> frbnr.png 识别结果：frbar  |错误
+2019-10-28 15:42:58 [INFO] [82] >> gdenf.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:58 [INFO] [102] >> gdenf.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/gdenf.png
+2019-10-28 15:42:59 [INFO] [133] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-28 15:42:59 [INFO] [82] >> ge554.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:59 [INFO] [102] >> ge554.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/ge554.png
+2019-10-28 15:42:59 [INFO] [133] >> ge554.png 识别结果：ge554  |正确
+2019-10-28 15:42:59 [INFO] [82] >> gg7hn.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:42:59 [INFO] [102] >> gg7hn.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/gg7hn.png
+2019-10-28 15:43:00 [ERROR] [137] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-28 15:43:00 [INFO] [82] >> kxrha.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:43:00 [INFO] [102] >> kxrha.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/kxrha.png
+2019-10-28 15:43:00 [INFO] [133] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-28 15:43:00 [INFO] [82] >> mgy56.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:43:00 [INFO] [102] >> mgy56.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/mgy56.png
+2019-10-28 15:43:01 [INFO] [133] >> mgy56.png 识别结果：mgy56  |正确
+2019-10-28 15:43:01 [INFO] [82] >> wpe28.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:43:01 [INFO] [102] >> wpe28.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/wpe28.png
+2019-10-28 15:43:01 [INFO] [133] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-28 15:43:01 [INFO] [82] >> wwrhd.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:43:01 [INFO] [102] >> wwrhd.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/wwrhd.png
+2019-10-28 15:43:01 [INFO] [133] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-28 15:43:01 [INFO] [82] >> x3w73.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:43:01 [INFO] [102] >> x3w73.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/x3w73.png
+2019-10-28 15:43:02 [ERROR] [137] >> x3w73.png 识别结果：x3w/3  |错误
+2019-10-28 15:43:02 [INFO] [82] >> xfbwg.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 19), (1, 10, 4))
+2019-10-28 15:43:02 [INFO] [102] >> xfbwg.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 19)/imagePreDeal(1, 10, 4)/xfbwg.png
+2019-10-28 15:43:02 [INFO] [133] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-28 15:43:02 [INFO] [157] >> 验证码总数：31 正确识别数：19 识别正确率：0.6129032258064516
+2019-10-28 15:43:02 [INFO] [158] >> ----顺丰快递验证码识别程序结束----
+2019-10-28 15:47:02 [INFO] [149] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:47:02 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:02 [INFO] [102] >> 28g7p.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/28g7p.png
+2019-10-28 15:47:02 [ERROR] [137] >> 28g7p.png 识别结果：  |错误
+2019-10-28 15:47:02 [INFO] [82] >> 4px5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:02 [INFO] [102] >> 4px5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/4px5a.png
+2019-10-28 15:47:02 [ERROR] [137] >> 4px5a.png 识别结果：  |错误
+2019-10-28 15:47:02 [INFO] [82] >> 4wc5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:02 [INFO] [102] >> 4wc5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/4wc5a.png
+2019-10-28 15:47:03 [ERROR] [137] >> 4wc5a.png 识别结果：  |错误
+2019-10-28 15:47:03 [INFO] [82] >> 6rdb3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:03 [INFO] [102] >> 6rdb3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/6rdb3.png
+2019-10-28 15:47:03 [ERROR] [137] >> 6rdb3.png 识别结果：  |错误
+2019-10-28 15:47:03 [INFO] [82] >> 6wkrk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:03 [INFO] [102] >> 6wkrk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/6wkrk.png
+2019-10-28 15:47:03 [ERROR] [137] >> 6wkrk.png 识别结果：  |错误
+2019-10-28 15:47:03 [INFO] [82] >> 6xea7.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:03 [INFO] [102] >> 6xea7.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/6xea7.png
+2019-10-28 15:47:03 [ERROR] [137] >> 6xea7.png 识别结果：  |错误
+2019-10-28 15:47:03 [INFO] [82] >> 7aedx.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:03 [INFO] [102] >> 7aedx.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/7aedx.png
+2019-10-28 15:47:04 [ERROR] [137] >> 7aedx.png 识别结果：  |错误
+2019-10-28 15:47:04 [INFO] [82] >> 84m33.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:04 [INFO] [102] >> 84m33.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/84m33.png
+2019-10-28 15:47:04 [ERROR] [137] >> 84m33.png 识别结果：  |错误
+2019-10-28 15:47:04 [INFO] [82] >> 866wb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:04 [INFO] [102] >> 866wb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/866wb.png
+2019-10-28 15:47:04 [ERROR] [137] >> 866wb.png 识别结果：  |错误
+2019-10-28 15:47:04 [INFO] [82] >> 8w5c5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:04 [INFO] [102] >> 8w5c5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/8w5c5.png
+2019-10-28 15:47:04 [ERROR] [137] >> 8w5c5.png 识别结果：  |错误
+2019-10-28 15:47:04 [INFO] [82] >> a5gk3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:05 [INFO] [102] >> a5gk3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/a5gk3.png
+2019-10-28 15:47:05 [ERROR] [137] >> a5gk3.png 识别结果：  |错误
+2019-10-28 15:47:05 [INFO] [82] >> an7ga.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:05 [INFO] [102] >> an7ga.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/an7ga.png
+2019-10-28 15:47:05 [ERROR] [137] >> an7ga.png 识别结果：  |错误
+2019-10-28 15:47:05 [INFO] [82] >> awbwk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:05 [INFO] [102] >> awbwk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/awbwk.png
+2019-10-28 15:47:05 [ERROR] [137] >> awbwk.png 识别结果：  |错误
+2019-10-28 15:47:05 [INFO] [82] >> bg8rp.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:05 [INFO] [102] >> bg8rp.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/bg8rp.png
+2019-10-28 15:47:06 [ERROR] [137] >> bg8rp.png 识别结果：  |错误
+2019-10-28 15:47:06 [INFO] [82] >> bhb5m.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:06 [INFO] [102] >> bhb5m.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/bhb5m.png
+2019-10-28 15:47:06 [ERROR] [137] >> bhb5m.png 识别结果：  |错误
+2019-10-28 15:47:06 [INFO] [82] >> cnb5k.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:06 [INFO] [102] >> cnb5k.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/cnb5k.png
+2019-10-28 15:47:06 [ERROR] [137] >> cnb5k.png 识别结果：  |错误
+2019-10-28 15:47:06 [INFO] [82] >> e3gck.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:06 [INFO] [102] >> e3gck.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/e3gck.png
+2019-10-28 15:47:07 [ERROR] [137] >> e3gck.png 识别结果：  |错误
+2019-10-28 15:47:07 [INFO] [82] >> e5nx5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:07 [INFO] [102] >> e5nx5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/e5nx5.png
+2019-10-28 15:47:07 [ERROR] [137] >> e5nx5.png 识别结果：  |错误
+2019-10-28 15:47:07 [INFO] [82] >> edwwy.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:07 [INFO] [102] >> edwwy.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/edwwy.png
+2019-10-28 15:47:07 [ERROR] [137] >> edwwy.png 识别结果：  |错误
+2019-10-28 15:47:07 [INFO] [82] >> exwkb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:07 [INFO] [102] >> exwkb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/exwkb.png
+2019-10-28 15:47:07 [ERROR] [137] >> exwkb.png 识别结果：  |错误
+2019-10-28 15:47:07 [INFO] [82] >> f873a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:08 [INFO] [102] >> f873a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/f873a.png
+2019-10-28 15:47:08 [ERROR] [137] >> f873a.png 识别结果：  |错误
+2019-10-28 15:47:08 [INFO] [82] >> frbnr.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:08 [INFO] [102] >> frbnr.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/frbnr.png
+2019-10-28 15:47:08 [ERROR] [137] >> frbnr.png 识别结果：  |错误
+2019-10-28 15:47:08 [INFO] [82] >> gdenf.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:08 [INFO] [102] >> gdenf.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/gdenf.png
+2019-10-28 15:47:09 [ERROR] [137] >> gdenf.png 识别结果：  |错误
+2019-10-28 15:47:09 [INFO] [82] >> ge554.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:09 [INFO] [102] >> ge554.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/ge554.png
+2019-10-28 15:47:09 [ERROR] [137] >> ge554.png 识别结果：  |错误
+2019-10-28 15:47:09 [INFO] [82] >> gg7hn.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:09 [INFO] [102] >> gg7hn.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/gg7hn.png
+2019-10-28 15:47:09 [ERROR] [137] >> gg7hn.png 识别结果：  |错误
+2019-10-28 15:47:09 [INFO] [82] >> kxrha.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:09 [INFO] [102] >> kxrha.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/kxrha.png
+2019-10-28 15:47:10 [ERROR] [137] >> kxrha.png 识别结果：  |错误
+2019-10-28 15:47:10 [INFO] [82] >> mgy56.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:10 [INFO] [102] >> mgy56.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/mgy56.png
+2019-10-28 15:47:10 [ERROR] [137] >> mgy56.png 识别结果：  |错误
+2019-10-28 15:47:10 [INFO] [82] >> wpe28.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:10 [INFO] [102] >> wpe28.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/wpe28.png
+2019-10-28 15:47:10 [ERROR] [137] >> wpe28.png 识别结果：  |错误
+2019-10-28 15:47:10 [INFO] [82] >> wwrhd.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:10 [INFO] [102] >> wwrhd.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/wwrhd.png
+2019-10-28 15:47:10 [ERROR] [137] >> wwrhd.png 识别结果：  |错误
+2019-10-28 15:47:10 [INFO] [82] >> x3w73.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:11 [INFO] [102] >> x3w73.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/x3w73.png
+2019-10-28 15:47:11 [ERROR] [137] >> x3w73.png 识别结果：  |错误
+2019-10-28 15:47:11 [INFO] [82] >> xfbwg.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 15), (1, 10, 4))
+2019-10-28 15:47:11 [INFO] [102] >> xfbwg.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 15)/imagePreDeal(1, 10, 4)/xfbwg.png
+2019-10-28 15:47:11 [ERROR] [137] >> xfbwg.png 识别结果：  |错误
+2019-10-28 15:47:11 [INFO] [157] >> 验证码总数：31 正确识别数：0 识别正确率：0.0
+2019-10-28 15:47:11 [INFO] [158] >> ----顺丰快递验证码识别程序结束----
+2019-10-28 15:47:28 [INFO] [149] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:47:28 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:28 [INFO] [102] >> 28g7p.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/28g7p.png
+2019-10-28 15:47:28 [ERROR] [137] >> 28g7p.png 识别结果：2897p  |错误
+2019-10-28 15:47:28 [INFO] [82] >> 4px5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:28 [INFO] [102] >> 4px5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/4px5a.png
+2019-10-28 15:47:29 [INFO] [133] >> 4px5a.png 识别结果：4px5a  |正确
+2019-10-28 15:47:29 [INFO] [82] >> 4wc5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:29 [INFO] [102] >> 4wc5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/4wc5a.png
+2019-10-28 15:47:29 [ERROR] [137] >> 4wc5a.png 识别结果：4weSa  |错误
+2019-10-28 15:47:29 [INFO] [82] >> 6rdb3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:29 [INFO] [102] >> 6rdb3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/6rdb3.png
+2019-10-28 15:47:29 [INFO] [133] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-28 15:47:29 [INFO] [82] >> 6wkrk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:29 [INFO] [102] >> 6wkrk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/6wkrk.png
+2019-10-28 15:47:30 [INFO] [133] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-28 15:47:30 [INFO] [82] >> 6xea7.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:30 [INFO] [102] >> 6xea7.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/6xea7.png
+2019-10-28 15:47:30 [ERROR] [137] >> 6xea7.png 识别结果：6xea/s  |错误
+2019-10-28 15:47:30 [INFO] [82] >> 7aedx.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:30 [INFO] [102] >> 7aedx.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/7aedx.png
+2019-10-28 15:47:31 [ERROR] [137] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-28 15:47:31 [INFO] [82] >> 84m33.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:31 [INFO] [102] >> 84m33.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/84m33.png
+2019-10-28 15:47:31 [INFO] [133] >> 84m33.png 识别结果：84m33  |正确
+2019-10-28 15:47:31 [INFO] [82] >> 866wb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:31 [INFO] [102] >> 866wb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/866wb.png
+2019-10-28 15:47:31 [INFO] [133] >> 866wb.png 识别结果：866wb  |正确
+2019-10-28 15:47:31 [INFO] [82] >> 8w5c5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:31 [INFO] [102] >> 8w5c5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/8w5c5.png
+2019-10-28 15:47:32 [ERROR] [137] >> 8w5c5.png 识别结果：8Sw5c5  |错误
+2019-10-28 15:47:32 [INFO] [82] >> a5gk3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:32 [INFO] [102] >> a5gk3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/a5gk3.png
+2019-10-28 15:47:32 [ERROR] [137] >> a5gk3.png 识别结果：adgk3  |错误
+2019-10-28 15:47:32 [INFO] [82] >> an7ga.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:32 [INFO] [102] >> an7ga.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/an7ga.png
+2019-10-28 15:47:32 [ERROR] [137] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-28 15:47:32 [INFO] [82] >> awbwk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:33 [INFO] [102] >> awbwk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/awbwk.png
+2019-10-28 15:47:33 [INFO] [133] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-28 15:47:33 [INFO] [82] >> bg8rp.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:33 [INFO] [102] >> bg8rp.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/bg8rp.png
+2019-10-28 15:47:33 [ERROR] [137] >> bg8rp.png 识别结果：b&8grp  |错误
+2019-10-28 15:47:33 [INFO] [82] >> bhb5m.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:33 [INFO] [102] >> bhb5m.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/bhb5m.png
+2019-10-28 15:47:34 [INFO] [133] >> bhb5m.png 识别结果：bhb5m  |正确
+2019-10-28 15:47:34 [INFO] [82] >> cnb5k.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:34 [INFO] [102] >> cnb5k.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/cnb5k.png
+2019-10-28 15:47:34 [INFO] [133] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-28 15:47:34 [INFO] [82] >> e3gck.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:34 [INFO] [102] >> e3gck.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/e3gck.png
+2019-10-28 15:47:34 [INFO] [133] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-28 15:47:34 [INFO] [82] >> e5nx5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:34 [INFO] [102] >> e5nx5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/e5nx5.png
+2019-10-28 15:47:34 [ERROR] [137] >> e5nx5.png 识别结果：eSnx5  |错误
+2019-10-28 15:47:34 [INFO] [82] >> edwwy.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:35 [INFO] [102] >> edwwy.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/edwwy.png
+2019-10-28 15:47:35 [INFO] [133] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-28 15:47:35 [INFO] [82] >> exwkb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:35 [INFO] [102] >> exwkb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/exwkb.png
+2019-10-28 15:47:35 [INFO] [133] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-28 15:47:35 [INFO] [82] >> f873a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:35 [INFO] [102] >> f873a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/f873a.png
+2019-10-28 15:47:36 [ERROR] [137] >> f873a.png 识别结果：f8/3a  |错误
+2019-10-28 15:47:36 [INFO] [82] >> frbnr.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:36 [INFO] [102] >> frbnr.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/frbnr.png
+2019-10-28 15:47:36 [ERROR] [137] >> frbnr.png 识别结果：frbar  |错误
+2019-10-28 15:47:36 [INFO] [82] >> gdenf.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:36 [INFO] [102] >> gdenf.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/gdenf.png
+2019-10-28 15:47:36 [INFO] [133] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-28 15:47:36 [INFO] [82] >> ge554.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:36 [INFO] [102] >> ge554.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/ge554.png
+2019-10-28 15:47:37 [INFO] [133] >> ge554.png 识别结果：ge554  |正确
+2019-10-28 15:47:37 [INFO] [82] >> gg7hn.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:37 [INFO] [102] >> gg7hn.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/gg7hn.png
+2019-10-28 15:47:37 [ERROR] [137] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-28 15:47:37 [INFO] [82] >> kxrha.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:37 [INFO] [102] >> kxrha.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/kxrha.png
+2019-10-28 15:47:37 [INFO] [133] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-28 15:47:37 [INFO] [82] >> mgy56.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:38 [INFO] [102] >> mgy56.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/mgy56.png
+2019-10-28 15:47:38 [ERROR] [137] >> mgy56.png 识别结果：ngy56  |错误
+2019-10-28 15:47:38 [INFO] [82] >> wpe28.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:38 [INFO] [102] >> wpe28.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/wpe28.png
+2019-10-28 15:47:38 [ERROR] [137] >> wpe28.png 识别结果：wpe28s  |错误
+2019-10-28 15:47:38 [INFO] [82] >> wwrhd.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:38 [INFO] [102] >> wwrhd.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/wwrhd.png
+2019-10-28 15:47:39 [INFO] [133] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-28 15:47:39 [INFO] [82] >> x3w73.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:39 [INFO] [102] >> x3w73.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/x3w73.png
+2019-10-28 15:47:39 [INFO] [133] >> x3w73.png 识别结果：x3w73  |正确
+2019-10-28 15:47:39 [INFO] [82] >> xfbwg.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 4))
+2019-10-28 15:47:39 [INFO] [102] >> xfbwg.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 4)/xfbwg.png
+2019-10-28 15:47:39 [INFO] [133] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-28 15:47:39 [INFO] [157] >> 验证码总数：31 正确识别数：17 识别正确率：0.5483870967741935
+2019-10-28 15:47:39 [INFO] [158] >> ----顺丰快递验证码识别程序结束----
+2019-10-28 15:52:09 [INFO] [149] >> ----顺丰快递验证码识别程序启动----
+2019-10-28 15:52:09 [INFO] [82] >> 28g7p.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:09 [INFO] [102] >> 28g7p.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/28g7p.png
+2019-10-28 15:52:09 [ERROR] [137] >> 28g7p.png 识别结果：28g/p  |错误
+2019-10-28 15:52:09 [INFO] [82] >> 4px5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:09 [INFO] [102] >> 4px5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/4px5a.png
+2019-10-28 15:52:09 [INFO] [133] >> 4px5a.png 识别结果：4px5a  |正确
+2019-10-28 15:52:09 [INFO] [82] >> 4wc5a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:09 [INFO] [102] >> 4wc5a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/4wc5a.png
+2019-10-28 15:52:10 [ERROR] [137] >> 4wc5a.png 识别结果：4wecSa  |错误
+2019-10-28 15:52:10 [INFO] [82] >> 6rdb3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:10 [INFO] [102] >> 6rdb3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/6rdb3.png
+2019-10-28 15:52:10 [INFO] [133] >> 6rdb3.png 识别结果：6rdb3  |正确
+2019-10-28 15:52:10 [INFO] [82] >> 6wkrk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:10 [INFO] [102] >> 6wkrk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/6wkrk.png
+2019-10-28 15:52:10 [INFO] [133] >> 6wkrk.png 识别结果：6wkrk  |正确
+2019-10-28 15:52:10 [INFO] [82] >> 6xea7.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:10 [INFO] [102] >> 6xea7.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/6xea7.png
+2019-10-28 15:52:11 [ERROR] [137] >> 6xea7.png 识别结果：6xeaZs  |错误
+2019-10-28 15:52:11 [INFO] [82] >> 7aedx.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:11 [INFO] [102] >> 7aedx.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/7aedx.png
+2019-10-28 15:52:11 [ERROR] [137] >> 7aedx.png 识别结果：faedx  |错误
+2019-10-28 15:52:11 [INFO] [82] >> 84m33.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:11 [INFO] [102] >> 84m33.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/84m33.png
+2019-10-28 15:52:12 [INFO] [133] >> 84m33.png 识别结果：84m33  |正确
+2019-10-28 15:52:12 [INFO] [82] >> 866wb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:12 [INFO] [102] >> 866wb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/866wb.png
+2019-10-28 15:52:12 [INFO] [133] >> 866wb.png 识别结果：866wb  |正确
+2019-10-28 15:52:12 [INFO] [82] >> 8w5c5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:12 [INFO] [102] >> 8w5c5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/8w5c5.png
+2019-10-28 15:52:12 [INFO] [133] >> 8w5c5.png 识别结果：8w5c5  |正确
+2019-10-28 15:52:12 [INFO] [82] >> a5gk3.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:12 [INFO] [102] >> a5gk3.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/a5gk3.png
+2019-10-28 15:52:13 [INFO] [133] >> a5gk3.png 识别结果：a5gk3  |正确
+2019-10-28 15:52:13 [INFO] [82] >> an7ga.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:13 [INFO] [102] >> an7ga.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/an7ga.png
+2019-10-28 15:52:13 [ERROR] [137] >> an7ga.png 识别结果：an/ga  |错误
+2019-10-28 15:52:13 [INFO] [82] >> awbwk.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:13 [INFO] [102] >> awbwk.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/awbwk.png
+2019-10-28 15:52:13 [INFO] [133] >> awbwk.png 识别结果：awbwk  |正确
+2019-10-28 15:52:13 [INFO] [82] >> bg8rp.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:13 [INFO] [102] >> bg8rp.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/bg8rp.png
+2019-10-28 15:52:14 [ERROR] [137] >> bg8rp.png 识别结果：b&grp  |错误
+2019-10-28 15:52:14 [INFO] [82] >> bhb5m.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:14 [INFO] [102] >> bhb5m.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/bhb5m.png
+2019-10-28 15:52:14 [ERROR] [137] >> bhb5m.png 识别结果：bhbSm  |错误
+2019-10-28 15:52:14 [INFO] [82] >> cnb5k.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:14 [INFO] [102] >> cnb5k.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/cnb5k.png
+2019-10-28 15:52:14 [INFO] [133] >> cnb5k.png 识别结果：cnb5k  |正确
+2019-10-28 15:52:14 [INFO] [82] >> e3gck.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:14 [INFO] [102] >> e3gck.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/e3gck.png
+2019-10-28 15:52:14 [INFO] [133] >> e3gck.png 识别结果：e3gck  |正确
+2019-10-28 15:52:14 [INFO] [82] >> e5nx5.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:15 [INFO] [102] >> e5nx5.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/e5nx5.png
+2019-10-28 15:52:15 [ERROR] [137] >> e5nx5.png 识别结果：esnx5  |错误
+2019-10-28 15:52:15 [INFO] [82] >> edwwy.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:15 [INFO] [102] >> edwwy.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/edwwy.png
+2019-10-28 15:52:15 [INFO] [133] >> edwwy.png 识别结果：edwwy  |正确
+2019-10-28 15:52:15 [INFO] [82] >> exwkb.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:15 [INFO] [102] >> exwkb.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/exwkb.png
+2019-10-28 15:52:15 [INFO] [133] >> exwkb.png 识别结果：exwkb  |正确
+2019-10-28 15:52:15 [INFO] [82] >> f873a.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:15 [INFO] [102] >> f873a.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/f873a.png
+2019-10-28 15:52:16 [INFO] [133] >> f873a.png 识别结果：f873a  |正确
+2019-10-28 15:52:16 [INFO] [82] >> frbnr.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:16 [INFO] [102] >> frbnr.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/frbnr.png
+2019-10-28 15:52:16 [ERROR] [137] >> frbnr.png 识别结果：frbar  |错误
+2019-10-28 15:52:16 [INFO] [82] >> gdenf.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:16 [INFO] [102] >> gdenf.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/gdenf.png
+2019-10-28 15:52:16 [INFO] [133] >> gdenf.png 识别结果：gdenf  |正确
+2019-10-28 15:52:16 [INFO] [82] >> ge554.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:16 [INFO] [102] >> ge554.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/ge554.png
+2019-10-28 15:52:17 [INFO] [133] >> ge554.png 识别结果：ge554  |正确
+2019-10-28 15:52:17 [INFO] [82] >> gg7hn.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:17 [INFO] [102] >> gg7hn.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/gg7hn.png
+2019-10-28 15:52:17 [ERROR] [137] >> gg7hn.png 识别结果：gg/hn  |错误
+2019-10-28 15:52:17 [INFO] [82] >> kxrha.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:17 [INFO] [102] >> kxrha.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/kxrha.png
+2019-10-28 15:52:17 [INFO] [133] >> kxrha.png 识别结果：kxrha  |正确
+2019-10-28 15:52:17 [INFO] [82] >> mgy56.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:17 [INFO] [102] >> mgy56.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/mgy56.png
+2019-10-28 15:52:18 [ERROR] [137] >> mgy56.png 识别结果：ngy56  |错误
+2019-10-28 15:52:18 [INFO] [82] >> wpe28.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:18 [INFO] [102] >> wpe28.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/wpe28.png
+2019-10-28 15:52:18 [INFO] [133] >> wpe28.png 识别结果：wpe28  |正确
+2019-10-28 15:52:18 [INFO] [82] >> wwrhd.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:18 [INFO] [102] >> wwrhd.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/wwrhd.png
+2019-10-28 15:52:18 [INFO] [133] >> wwrhd.png 识别结果：wwrhd  |正确
+2019-10-28 15:52:18 [INFO] [82] >> x3w73.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:18 [INFO] [102] >> x3w73.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/x3w73.png
+2019-10-28 15:52:18 [ERROR] [137] >> x3w73.png 识别结果：x3w7/3  |错误
+2019-10-28 15:52:18 [INFO] [82] >> xfbwg.png 开始预处理，preDealFunction = ['imagePreDeal', 'imagePreDeal'] preDealArgs = ((2, 150, 18), (1, 10, 5))
+2019-10-28 15:52:19 [INFO] [102] >> xfbwg.png 预处理完成，处理结果保存在 pre_deal/imagePreDeal(2, 150, 18)/imagePreDeal(1, 10, 5)/xfbwg.png
+2019-10-28 15:52:19 [INFO] [133] >> xfbwg.png 识别结果：xfbwg  |正确
+2019-10-28 15:52:19 [INFO] [157] >> 验证码总数：31 正确识别数：19 识别正确率：0.6129032258064516
+2019-10-28 15:52:19 [INFO] [158] >> ----顺丰快递验证码识别程序结束----
